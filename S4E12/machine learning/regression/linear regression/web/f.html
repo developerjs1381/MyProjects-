@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>مدل ماشین لرنینگ</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
+
+    body {
+      font-family: 'Vazirmatn', sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      min-height: 100vh;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: #e2e8f0;
+      direction: rtl;
+    }
+
+    h2 {
+      font-size: 36px;
+      margin-bottom: 20px;
+      color: #60a5fa;
+    }
+
+    form {
+      background: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(12px);
+      border-radius: 20px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+      padding: 40px 35px;
+      width: 100%;
+      max-width: 480px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    label {
+      font-size: 18px;
+      margin-bottom: 5px;
+    }
+
+    input[type="number"] {
+      width: 70%;
+      padding: 14px;
+      background-color: #1e293b;
+      color: #e2e8f0;
+      border: 2px solid #334155;
+      border-radius: 12px;
+      font-size: 18px;
+      transition: border 0.3s;
+    }
+
+    input[type="number"]:focus {
+      border-color: #60a5fa;
+      outline: none;
+    }
+
+    input[type="submit"] {
+      padding: 14px;
+      background: #3b82f6;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-size: 20px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    input[type="submit"]:hover {
+      background: #2563eb;
+    }
+
+    .result, .error {
+      margin-top: 30px;
+      padding: 20px;
+      border-radius: 16px;
+      width: 100%;
+      max-width: 480px;
+      font-size: 18px;
+    }
+
+    .result {
+      background: rgba(56, 189, 248, 0.15);
+      color: #7dd3fc;
+      border: 1px solid #38bdf8;
+    }
+
+    .error {
+      background: rgba(248, 113, 113, 0.15);
+      color: #f87171;
+      border: 1px solid #ef4444;
+    }
+
+    a {
+      margin-top: 30px;
+      text-decoration: none;
+      color: #93c5fd;
+      font-size: 18px;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+
+    a:hover {
+      color: #60a5fa;
+    }
+  </style>
+</head>
+<body>
+  <h2>مقادیر را وارد کنید:</h2>
+  
+  <form method="POST">
+    <div>
+      <label for="h">Hours</label>
+      <input type="number" step="any" name="h" id="h" required>
+    </div>
+    <div>
+      <label for="t">Practice</label>
+      <input type="number" step="any" name="t" id="t" required>
+    </div>
+    <div>
+      <label for="p">TeamWork</label>
+      <input type="number" step="any" name="p" id="p" required>
+    </div>
+    <input type="submit" value="محاسبه و ذخیره">
+  </form>
+
+  {% if y is not none %}
+    <div class="result">
+      <h3>نتیجه y: {{ y }}</h3>
+      <p>مقدارهای واردشده: h = {{ h }}, t = {{ t }}, p = {{ p }}</p>
+    </div>
+  {% endif %}
+
+  {% if error %}
+    <div class="error">
+      <h3>خطا: {{ error }}</h3>
+    </div>
+  {% endif %}
+
+  <a href="/dataset">نمایش دیتاست</a>
+</body>
+</html>

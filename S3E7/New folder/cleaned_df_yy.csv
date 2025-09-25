@@ -1,0 +1,779 @@
+Year,Location,Area,Rainfall,Temperature,Soil type,Irrigation,yeild,Humidity,Crops,price,Season,yeild_per_Hectare,Is_Outlier
+2004,Raichur,4930,2903.1,27.0,Red,Basin,41266.0,60.0,Coconut,646,Rabi,8.370385395537525,False
+2004,Raichur,5127,2996.6,27.0,Red,Basin,42915.0,54.0,Coconut,4847,Rabi,8.3703920421299,False
+2004,Raichur,5294,3522.8,27.2,Red,Basin,44313.0,56.6,Coconut,216396,Rabi,8.37041934265206,False
+2004,Raichur,5474,3522.8,27.2,Red,Basin,45820.0,55.5,Coconut,2644,Rabi,8.370478626233101,False
+2004,Raichur,5864,3729.8,27.0,Red,Basin,49084.0,58.5,Coconut,44235,Rabi,8.370395634379264,False
+2004,Raichur,7028,3729.8,27.0,Red,Basin,86311.0,59.5,Coconut,203317,Rabi,12.281018782014797,False
+2004,Raichur,7403,3729.8,27.0,Red,Basin,57642.0,55.0,Coconut,2134,Rabi,7.786302850195867,False
+2004,Raichur,7501,2746.2,27.0,Red,Basin,58405.0,53.0,Coconut,45186,Rabi,7.786295160645247,False
+2004,Raichur,7714,2746.2,27.0,Red,Basin,60751.0,53.5,Coconut,238542,Rabi,7.875421311900441,False
+2004,Raichur,7856,2746.2,27.0,Red,Basin,109506.0,52.5,Coconut,1516,Rabi,13.939154786150713,False
+2004,Gulbarga,15114,2903.1,27.0,Black,Spray,118416.0,53.5,Coconut,43562,Zaid,7.834855101230647,False
+2004,Gulbarga,16224,2903.1,27.0,Black,Spray,130132.0,52.5,Coconut,200000,Zaid,8.02095660749507,False
+2004,Gulbarga,17095,2903.1,27.0,Black,Spray,154889.0,56.0,Coconut,4847,Zaid,9.06048552208248,False
+2004,Gulbarga,17512,2996.6,27.0,Black,Spray,171739.0,57.0,Coconut,51239,Zaid,9.806932389218822,False
+2004,Gulbarga,17587,2996.6,27.0,Black,Spray,172475.0,57.5,Coconut,216396,Zaid,9.806959686131801,False
+2004,Gulbarga,17771,2996.6,27.0,Black,Spray,177939.0,57.0,Coconut,2644,Zaid,10.012886162849586,False
+2004,Gulbarga,3529,2746.2,149.0,Black,Drip,1871.0,57.0,Cardamum,44235,Zaid,0.5301785208274299,False
+2005,Gulbarga,3649,2746.2,150.0,Black,Drip,1868.0,55.0,Cardamum,203317,Zaid,0.5119210742669225,False
+2006,Gulbarga,1374,3360.0,151.0,Black,Drip,127919.0,56.0,Cardamum,2134,Zaid,93.09970887918486,False
+2007,Gulbarga,933,3360.0,152.0,Black,Drip,75340.0,54.0,Cardamum,45186,Zaid,80.7502679528403,False
+2008,Gulbarga,345,3360.0,153.0,Black,Drip,29170.0,58.0,Cardamum,238542,Zaid,84.55072463768116,False
+2009,Gulbarga,29,3605.4,154.0,Black,Drip,1901.0,58.0,Cardamum,1516,Zaid,65.55172413793103,False
+2010,Gulbarga,11,3605.4,155.0,Black,Drip,972.0,59.0,Cardamum,57259,Kharif,88.36363636363636,False
+2011,Gulbarga,10,3605.4,156.0,Black,Drip,874.0,50.0,Cardamum,234779,Kharif,87.4,False
+2012,Gulbarga,7,3512.4,157.0,Black,Drip,592.0,54.0,Cardamum,1493,Kharif,84.57142857142857,False
+2013,Gulbarga,10,3512.4,158.0,Black,Drip,864.0,53.0,Cardamum,64409,Kharif,86.4,False
+2014,Gulbarga,56,3512.4,159.0,Black,Drip,5373.0,52.0,Cardamum,249978,Kharif,95.94642857142857,False
+2015,Gulbarga,68,3296.0,160.0,Black,Drip,6589.0,51.0,Cardamum,637,Kharif,96.8970588235294,False
+2016,Gulbarga,56,3296.0,161.0,Black,Drip,5107.0,57.0,Cardamum,43311,Kharif,91.19642857142857,False
+2017,Gulbarga,66,3296.0,162.0,Black,Drip,5518.0,57.0,Cardamum,24848,Kharif,83.60606060606061,False
+2018,Gulbarga,55,3550.0,163.0,Black,Drip,4912.0,60.0,Cardamum,761,Kharif,89.30909090909091,False
+2012,Madikeri,177,234.0,172.0,Alluvial,Basin,109.0,55.0,Pepper,2644,Kharif,0.615819209039548,False
+2004,Madikeri,10912,236.0,179.0,Alluvial,Basin,2628.0,57.0,Arecanut,200000,Kharif,0.24083577712609971,False
+2005,Madikeri,51353,2903.1,180.0,Alluvial,Basin,1939.0,55.0,Arecanut,4847,Kharif,0.03775826144529044,False
+2006,Madikeri,142,2903.1,181.0,Alluvial,Basin,1871.0,56.0,Arecanut,51239,Kharif,13.17605633802817,False
+2007,Madikeri,10505,2903.1,182.0,Alluvial,Basin,1868.0,54.0,Arecanut,216396,Kharif,0.1778200856734888,False
+2008,Madikeri,51040,2996.6,183.0,Alluvial,Basin,127919.0,58.0,Arecanut,2644,Kharif,2.50625,False
+2009,Madikeri,154,2996.6,184.0,Alluvial,Basin,75340.0,58.0,Arecanut,44235,Kharif,489.2207792207792,False
+2010,Madikeri,10318,2996.6,185.0,Alluvial,Basin,29170.0,59.0,Arecanut,203317,Kharif,2.827098274859469,False
+2011,Madikeri,48083,3522.8,186.0,Alluvial,Basin,1901.0,50.0,Arecanut,2134,Kharif,0.03953580267454194,False
+2012,Madikeri,143,3522.8,187.0,Alluvial,Basin,972.0,54.0,Arecanut,45186,Kharif,6.7972027972027975,False
+2013,Madikeri,9283,3522.8,188.0,Alluvial,Basin,874.0,53.0,Arecanut,238542,Kharif,0.09415059786706884,False
+2014,Madikeri,47200,2903.1,189.0,Alluvial,Basin,592.0,52.0,Arecanut,1516,Kharif,0.012542372881355932,False
+2015,Madikeri,158,2903.1,190.0,Alluvial,Basin,864.0,51.0,Arecanut,57259,Kharif,5.468354430379747,False
+2016,Madikeri,8982,2903.1,191.0,Alluvial,Basin,5373.0,57.0,Arecanut,234779,Kharif,0.5981963927855711,False
+2017,Hassan,46990,2996.6,192.0,Alluvial,Basin,6589.0,57.0,Arecanut,1493,Kharif,0.1402213236858906,False
+2018,Hassan,103,2996.6,193.0,Alluvial,Basin,5107.0,60.0,Arecanut,64409,Kharif,49.58252427184466,False
+2004,Hassan,8239,2996.6,194.0,Alluvial,Basin,5518.0,57.0,Ginger,249978,Kharif,0.6697414734797912,False
+2005,Hassan,44563,3522.8,195.0,Alluvial,Basin,4912.0,57.0,Ginger,637,Kharif,0.11022597221910553,False
+2006,Hassan,96,3522.8,196.0,Alluvial,Basin,3830.0,54.0,Ginger,43311,Kharif,39.895833333333336,False
+2007,Hassan,6949,3522.8,197.0,Sandy loam ,Basin,4.0,54.5,Ginger,24848,Kharif,0.0005756223917110375,False
+2008,Hassan,44663,3729.8,198.0,Sandy loam ,Basin,9.0,56.6,Ginger,761,Kharif,0.0002015090791035085,False
+2009,Hassan,110,3729.8,199.0,Sandy loam ,Basin,12.0,55.5,Ginger,45608,Kharif,0.10909090909090909,False
+2010,Hassan,6824,3729.8,200.0,Sandy loam ,Basin,2089.0,58.5,Ginger,234581,Kharif,0.30612543962485345,False
+2011,Hassan,43013,2746.2,201.0,Sandy loam ,Basin,2810.0,59.5,Ginger,646,Kharif,0.06532908655522748,False
+2012,Hassan,95,2746.2,202.0,Sandy loam ,Basin,841.0,55.0,Ginger,43562,Kharif,8.852631578947369,False
+2013,Hassan,6441,2746.2,203.0,Sandy loam ,Basin,3550.0,53.0,Ginger,200000,Kharif,0.5511566526936811,False
+2014,Hassan,4012,3360.0,204.0,Sandy loam ,Basin,109.0,53.5,Ginger,4847,Kharif,0.027168494516450648,False
+2015,Hassan,4877,3360.0,205.0,Sandy loam ,Basin,3368.0,52.5,Ginger,51239,Kharif,0.6905884765224524,False
+2016,Hassan,4930,3360.0,206.0,Sandy loam ,Basin,3671.0,56.0,Ginger,216396,Kharif,0.7446247464503043,False
+2017,Hassan,4954,3605.4,207.0,Sandy loam ,Basin,2404.0,57.0,Ginger,2644,Kharif,0.48526443278159065,False
+2018,Hassan,5019,3605.4,208.0,Sandy loam ,Basin,2805.0,57.5,Ginger,44235,Kharif,0.5588762701733413,False
+2004,Hassan,3147,2746.2,39.0,Black cotton,Spray,4479.0,57.0,Blackgram,637,Kharif,1.4232602478551002,False
+2005,Hassan,2578,2746.2,40.0,Black cotton,Spray,3699.0,57.0,Blackgram,43311,Kharif,1.434833204034135,False
+2005,Hassan,568,236.0,27.1,Sandy,Drip,3899.0,59.5,Coconut,43562,Kharif,6.86443661971831,False
+2006,Hassan,407,2903.1,27.1,Sandy,Drip,4015.0,55.0,Coconut,200000,Kharif,9.864864864864865,False
+2012,Hassan,243,3522.8,37.0,Sandy,Drip,2821.0,57.5,Coconut,203317,Kharif,11.609053497942387,False
+2015,Hassan,74,2903.1,38.0,Sandy,Drip,393.0,56.0,Coconut,238542,Kharif,5.3108108108108105,False
+2016,Hassan,18,2903.1,39.0,Sandy,Drip,167.0,54.0,Coconut,1516,Kharif,9.277777777777779,False
+2004,Hassan,6631,2996.6,40.0,Laterite,Drip,27170.0,50.0,Ginger,216396,Kharif,4.097421203438396,False
+2005,Hassan,6705,3522.8,40.0,Laterite,Drip,114744.0,54.0,Ginger,2644,Kharif,17.113199105145412,False
+2006,Hassan,5876,3522.8,41.0,Laterite,Drip,1402.0,53.0,Ginger,44235,Kharif,0.23859768550034036,False
+2007,Hassan,326,3522.8,41.0,Laterite,Basin,23456.0,59.5,Ginger,203317,Kharif,71.95092024539878,False
+2008,Hassan,6470,3729.8,41.0,Laterite,Basin,107809.0,55.0,Ginger,2134,Kharif,16.6629057187017,False
+2009,Hassan,6709,3729.8,42.0,Laterite,Basin,1132.0,53.0,Ginger,45186,Kharif,0.1687285735579073,False
+2010,Hassan,6186,3729.8,42.0,Laterite,Basin,23960.0,53.5,Ginger,238542,Kharif,3.873262204978985,False
+2011,Hassan,6503,2746.2,42.0,Laterite,Basin,126487.0,52.5,Ginger,1516,Kharif,19.450561279409502,False
+2012,Hassan,5220,2746.2,43.0,Laterite,Basin,804.0,56.0,Ginger,57259,Kharif,0.15402298850574714,False
+2013,Hassan,4677,2746.2,27.0,Laterite,Basin,30362.0,57.0,Ginger,234779,Kharif,6.491768227496259,False
+2014,Hassan,4803,3360.0,27.0,Laterite,Basin,124492.0,57.5,Ginger,1493,Kharif,25.91963356235686,False
+2015,Hassan,3739,3360.0,27.0,Laterite,Basin,792.0,57.0,Ginger,64409,Kharif,0.2118213426049746,False
+2016,Hassan,3529,3360.0,27.0,Laterite,Basin,34153.0,55.0,Ginger,249978,Kharif,9.677812411448002,False
+2017,Hassan,3649,3605.4,27.0,Laterite,Basin,132551.0,56.0,Ginger,637,Kharif,36.325294601260616,False
+2018,Hassan,1374,3605.4,27.0,Laterite,Basin,338.0,54.0,Ginger,43311,Kharif,0.24599708879184862,False
+2018,Kodagu,725,2996.6,27.0,Laterite,Basin,8700.0,57.0,Coconut,234581,Kharif,12.0,False
+2004,Mysuru,10723,233.0,27.0,Alluvial,Basin,57642.0,55.0,Coconut,2134,Kharif,5.375547887717989,False
+2007,Mysuru,10910,234.0,27.2,Alluvial,Basin,109506.0,52.5,Coconut,1516,Kharif,10.037213565536206,False
+2005,Mysuru,6949,3522.8,41.0,Teelah,Basin,58637.0,54.0,Coconut,249978,Kharif,8.438192545690027,False
+2008,Mysuru,30,3654.0,27.2,Clay,Spray,395.0,51.0,Coconut,249978,Kharif,13.166666666666666,False
+2010,Mysuru,15,233.0,27.1,Clay,Spray,187.0,57.0,Coconut,43311,Kharif,12.466666666666667,False
+2013,Kasaragodu,6,234.0,26.8,Clay,Spray,71.0,57.0,Coconut,45608,Kharif,11.833333333333334,False
+2017,Raichur,1298,3512.4,141.0,Arid and Desert,Drip,2089.0,54.0,Coffee,637,Kharif,1.6093990755007703,False
+2009,Raichur,2311,2903.1,154.0,Loam,Drip,1871.0,57.0,Cardamum,44235,Kharif,0.8096062310688014,False
+2010,Raichur,2188,2903.1,155.0,Loam,Drip,1868.0,55.0,Cardamum,203317,Kharif,0.8537477148080439,False
+2011,Raichur,1998,2903.1,156.0,Loam,Drip,127919.0,56.0,Cardamum,2134,Kharif,64.02352352352352,False
+2012,Raichur,2006,2996.6,157.0,Loam,Drip,75340.0,54.0,Cardamum,45186,Kharif,37.557328015952145,False
+2013,Raichur,2034,2996.6,158.0,Sandy loam ,Drip,29170.0,58.0,Cardamum,238542,Kharif,14.341199606686333,False
+2014,Raichur,2035,2996.6,159.0,Sandy loam ,Drip,1901.0,58.0,Cardamum,1516,Kharif,0.9341523341523341,False
+2015,Raichur,2074,3522.8,160.0,Sandy loam ,Drip,972.0,59.0,Cardamum,57259,Kharif,0.4686595949855352,False
+2016,Raichur,2127,3522.8,161.0,Sandy loam ,Drip,874.0,50.0,Cardamum,234779,Kharif,0.41090738128819937,False
+2017,Raichur,2090,3522.8,162.0,Sandy loam ,Drip,592.0,54.0,Cardamum,1493,Kharif,0.2832535885167464,False
+2016,Raichur,2059,3729.8,163.0,Sandy loam ,Drip,864.0,53.0,Cardamum,64409,Kharif,0.41962117532782905,False
+2017,Raichur,2050,3729.8,164.0,Sandy loam ,Drip,5373.0,52.0,Cardamum,249978,Kharif,2.6209756097560977,False
+2016,Raichur,1865,3729.8,165.0,Sandy loam ,Drip,6589.0,51.0,Cardamum,637,Kharif,3.5329758713136727,False
+2017,Raichur,1841,2746.2,166.0,Sandy loam ,Drip,5107.0,57.0,Cardamum,43311,Kharif,2.7740358500814772,False
+2018,Raichur,1799,2746.2,167.0,Sandy loam ,Drip,5518.0,57.0,Cardamum,24848,Kharif,3.067259588660367,False
+2013,Raichur,1468,2746.2,168.0,Sandy loam ,Drip,4912.0,60.0,Cardamum,761,Kharif,3.346049046321526,False
+2007,Gulbarga,123,3512.4,177.0,Sandy loam ,Basin,109.0,55.0,Pepper,2644,Kharif,0.8861788617886179,False
+2014,Gulbarga,6631,3654.0,184.0,Arid and Desert,Basin,2628.0,57.0,Arecanut,200000,Kharif,0.39632031367817827,False
+2015,Gulbarga,6705,3654.0,185.0,Arid and Desert,Basin,1939.0,55.0,Arecanut,4847,Kharif,0.2891871737509321,False
+2016,Gulbarga,5876,3654.0,186.0,Arid and Desert,Basin,1871.0,56.0,Arecanut,51239,Kharif,0.3184138869979578,False
+2017,Gulbarga,326,233.0,187.0,Arid and Desert,Basin,1868.0,54.0,Arecanut,216396,Kharif,5.730061349693251,False
+2017,Gulbarga,6470,233.0,188.0,Arid and Desert,Basin,127919.0,58.0,Arecanut,2644,Kharif,19.77109737248841,False
+2016,Gulbarga,6709,233.0,189.0,Arid and Desert,Basin,75340.0,58.0,Arecanut,44235,Kharif,11.229691459233864,False
+2017,Gulbarga,6186,234.0,190.0,Arid and Desert,Basin,29170.0,59.0,Arecanut,203317,Kharif,4.715486582605884,False
+2018,Gulbarga,6503,234.0,191.0,Arid and Desert,Basin,1901.0,50.0,Arecanut,2134,Kharif,0.2923266184837767,False
+2013,Gulbarga,5220,234.0,192.0,Arid and Desert,Basin,972.0,54.0,Arecanut,45186,Kharif,0.18620689655172415,False
+2014,Gulbarga,4677,3105.0,193.0,Arid and Desert,Basin,874.0,53.0,Arecanut,238542,Kharif,0.18687192644857814,False
+2015,Gulbarga,4803,3105.0,194.0,Arid and Desert,Basin,592.0,52.0,Arecanut,1516,Kharif,0.12325629814699146,False
+2016,Gulbarga,3739,3105.0,195.0,Arid and Desert,Basin,864.0,51.0,Arecanut,57259,Kharif,0.2310778282963359,False
+2017,Gulbarga,3529,236.0,196.0,Arid and Desert,Basin,5373.0,57.0,Arecanut,234779,Kharif,1.5225276282232927,False
+2018,Gulbarga,3649,236.0,197.0,Arid and Desert,Basin,6589.0,57.0,Arecanut,1493,Kharif,1.805700191833379,False
+2004,Gulbarga,1374,2903.1,198.0,Arid and Desert,Basin,5107.0,60.0,Arecanut,64409,Kharif,3.7168850072780204,False
+2005,Gulbarga,933,2903.1,199.0,Arid and Desert,Basin,5518.0,57.0,Ginger,249978,Kharif,5.914255091103966,False
+2006,Gulbarga,345,2903.1,200.0,Arid and Desert,Basin,4912.0,57.0,Ginger,637,Kharif,14.23768115942029,False
+2007,Gulbarga,29,2996.6,201.0,Arid and Desert,Basin,3830.0,54.0,Ginger,43311,Kharif,132.06896551724137,False
+2008,Gulbarga,11,2996.6,202.0,Arid and Desert,Basin,4.0,54.5,Ginger,24848,Kharif,0.36363636363636365,False
+2009,Gulbarga,10,2996.6,203.0,Arid and Desert,Basin,9.0,56.6,Ginger,761,Kharif,0.9,False
+2010,Gulbarga,7,3522.8,204.0,Arid and Desert,Basin,12.0,55.5,Ginger,45608,Kharif,1.7142857142857142,False
+2011,Gulbarga,10,3522.8,205.0,Arid and Desert,Basin,2089.0,58.5,Ginger,234581,Kharif,208.9,False
+2012,Madikeri,56,3522.8,206.0,Arid and Desert,Basin,2810.0,59.5,Ginger,646,Kharif,50.17857142857143,False
+2013,Madikeri,68,3729.8,207.0,Arid and Desert,Basin,841.0,55.0,Ginger,43562,Kharif,12.367647058823529,False
+2014,Madikeri,56,3729.8,208.0,Arid and Desert,Basin,3550.0,53.0,Ginger,200000,Kharif,63.392857142857146,False
+2015,Madikeri,66,3729.8,209.0,Arid and Desert,Basin,109.0,53.5,Ginger,4847,Kharif,1.6515151515151516,False
+2016,Madikeri,55,2746.2,210.0,Arid and Desert,Basin,3368.0,52.5,Ginger,51239,Kharif,61.236363636363635,False
+2017,Madikeri,42,2746.2,211.0,Arid and Desert,Basin,3671.0,56.0,Ginger,216396,Kharif,87.4047619047619,False
+2004,Madikeri,51179,2746.2,212.0,Arid and Desert,Basin,2404.0,57.0,Ginger,2644,Kharif,0.046972391019754194,False
+2004,Madikeri,468,3360.0,213.0,Arid and Desert,Basin,2805.0,57.5,Ginger,44235,Kharif,5.993589743589744,False
+2004,Madikeri,51709,3512.4,221.0,loamy sand,Spray,75340.0,50.0,Tea,1493,Kharif,1.4569997485930883,False
+2004,Chikmangaluru,110,2746.2,37.0,Clay loam,Spray,187.0,56.0,Groundnut,216396,Kharif,1.7,False
+2004,Chikmangaluru,4012,3360.0,38.0,Clay loam,Spray,4247.0,50.0,Groundnut,45186,Kharif,1.0585742771684945,False
+2004,Chikmangaluru,30,233.0,27.0,Clay loam,Drip,52.0,53.0,Blackgram,4847,Kharif,1.7333333333333334,False
+2004,Chikmangaluru,29,3522.8,27.1,Alluvial,Drip,71.0,58.0,Cotton,43311,Rabi,2.4482758620689653,False
+2004,Chikmangaluru,4,3550.0,27.0,Alluvial,Drip,27170.0,50.0,Ginger,216396,Rabi,6792.5,False
+2004,Chikmangaluru,1122,3550.0,27.0,Alluvial,Drip,114744.0,54.0,Ginger,2644,Rabi,102.26737967914438,False
+2004,Chikmangaluru,917,3550.0,27.2,Alluvial,Drip,1402.0,53.0,Ginger,44235,Rabi,1.528898582333697,False
+2004,Chikmangaluru,819,3654.0,27.2,Alluvial,Basin,23456.0,59.5,Ginger,203317,Rabi,28.63980463980464,False
+2004,Chikmangaluru,619,3654.0,27.2,Alluvial,Basin,107809.0,55.0,Ginger,2134,Rabi,174.16639741518577,False
+2004,Chikmangaluru,391,3654.0,27.0,Alluvial,Basin,1132.0,53.0,Ginger,45186,Rabi,2.895140664961637,False
+2004,Hassan,53,234.0,27.0,Alluvial,Basin,124492.0,57.5,Ginger,1493,Rabi,2348.9056603773583,False
+2004,Hassan,2688,234.0,27.2,Alluvial,Basin,792.0,57.0,Ginger,64409,Rabi,0.29464285714285715,False
+2004,Hassan,2311,3105.0,27.2,Alluvial,Basin,34153.0,55.0,Ginger,249978,Rabi,14.778450887061878,False
+2004,Hassan,2188,3105.0,27.2,Alluvial,Basin,2570.0,56.0,Ginger,637,Rabi,1.1745886654478976,False
+2004,Hassan,1998,3105.0,27.1,Alluvial,Basin,27170.0,54.0,Ginger,43311,Rabi,13.598598598598599,False
+2004,Hassan,2035,2903.1,26.8,Alluvial,Drip,23456.0,57.0,Coconut,51239,Rabi,11.526289926289927,False
+2004,Hassan,2090,2996.6,37.0,Alluvial,Drip,23960.0,54.0,Coconut,44235,Rabi,11.464114832535886,False
+2017,Hassan,35,3296.0,27.0,Sandy loam ,Drip,316.0,55.0,Coconut,4847,Rabi,9.028571428571428,False
+2018,Hassan,1374,3105.0,27.2,Sandy loam ,Drip,17690.0,53.0,Coconut,43311,Rabi,12.874818049490539,False
+2004,Hassan,1279,3105.0,27.2,Sandy loam ,Drip,7157.0,52.0,Coconut,24848,Rabi,5.595777951524629,False
+2007,Hassan,725,321.0,27.1,Sandy loam ,Basin,8838.0,57.0,Coconut,234581,Rabi,12.190344827586207,False
+2014,Hassan,10922,328.0,38.0,Sandy loam ,Basin,86311.0,55.5,Coconut,2644,Rabi,7.902490386376122,False
+2017,Hassan,10723,2903.1,39.0,Sandy loam ,Basin,60751.0,55.0,Coconut,2134,Rabi,5.665485405203768,False
+2011,Hassan,10910,3296.0,27.0,River basins,Basin,60528.0,54.0,Coconut,249978,Rabi,5.547937671860678,False
+2014,Hassan,10912,3550.0,27.0,River basins,Basin,63504.0,55.5,Coconut,24848,Rabi,5.819648093841642,False
+2017,Hassan,13283,3654.0,27.2,River basins,Basin,118416.0,55.0,Coconut,234581,Rabi,8.914853572235188,False
+2005,Hassan,12885,233.0,27.1,River basins,Spray,171739.0,52.5,Coconut,200000,Rabi,13.32859914629414,False
+2010,Hassan,206,3105.0,37.0,River basins,Spray,1533.0,55.0,Coconut,44235,Rabi,7.441747572815534,False
+2016,Mangalore,146,2903.1,39.0,Alluvial,Spray,880.0,50.0,Coconut,57259,Rabi,6.027397260273973,False
+2009,Mangalore,3,2903.1,26.8,Loam,Drip,127919.0,57.0,Cardamum,44235,Rabi,42639.666666666664,False
+2010,Mangalore,17,2996.6,37.0,Sandy loam ,Drip,75340.0,55.0,Cardamum,203317,Rabi,4431.764705882353,False
+2011,Mangalore,3,2996.6,37.0,Sandy loam ,Drip,29170.0,56.0,Cardamum,2134,Rabi,9723.333333333334,False
+2012,Mangalore,9,2996.6,37.0,Sandy loam ,Drip,1901.0,54.0,Cardamum,45186,Rabi,211.22222222222223,False
+2013,Mangalore,21,3522.8,38.0,Sandy loam ,Drip,972.0,58.0,Cardamum,238542,Rabi,46.285714285714285,False
+2014,Mangalore,11,3522.8,38.0,Sandy loam ,Drip,874.0,58.0,Cardamum,1516,Rabi,79.45454545454545,False
+2015,Mangalore,4,3522.8,38.0,Clay loam,Drip,592.0,59.0,Cardamum,57259,Rabi,148.0,False
+2016,Mangalore,15,2903.1,39.0,Clay loam,Drip,864.0,50.0,Cardamum,234779,Rabi,57.6,False
+2017,Mangalore,8,2903.1,39.0,Clay loam,Drip,5373.0,54.0,Cardamum,1493,Rabi,671.625,False
+2018,Mangalore,29,2903.1,39.0,Clay loam,Drip,6589.0,53.0,Cardamum,64409,Rabi,227.20689655172413,False
+2004,Mangalore,1,2996.6,40.0,Clay loam,Drip,5107.0,52.0,Cardamum,249978,Rabi,5107.0,False
+2005,Mangalore,13736,2996.6,40.0,Clay loam,Drip,5518.0,51.0,Cardamum,637,Rabi,0.4017181129877694,False
+2006,Mangalore,14003,2996.6,40.0,Laterite,Drip,4912.0,57.0,Cardamum,43311,Rabi,0.3507819752910091,False
+2007,Mangalore,14179,3522.8,41.0,Laterite,Drip,3830.0,57.0,Cardamum,24848,Rabi,0.27011777981521967,False
+2008,Mangalore,14319,3522.8,41.0,Laterite,Drip,4.0,60.0,Cardamum,761,Rabi,0.00027934911655841887,False
+2005,Mangalore,3147,3605.4,27.0,Laterite,Basin,2331.0,52.5,Pepper,2134,Rabi,0.7407054337464252,False
+2006,Mangalore,2578,3605.4,27.2,Laterite,Basin,2088.0,56.0,Pepper,45186,Rabi,0.8099301784328937,False
+2009,Kodagu,4,3512.4,27.0,Laterite,Basin,1871.0,57.0,Arecanut,200000,Rabi,467.75,False
+2010,Kodagu,1122,3296.0,27.0,Laterite,Basin,1868.0,55.0,Arecanut,4847,Rabi,1.6648841354723707,False
+2011,Kodagu,917,3296.0,27.0,Laterite,Basin,127919.0,56.0,Arecanut,51239,Rabi,139.49727371864776,False
+2012,Kodagu,819,3296.0,27.0,Laterite,Basin,75340.0,54.0,Arecanut,216396,Rabi,91.99023199023199,False
+2013,Kodagu,619,3550.0,27.0,Laterite,Basin,29170.0,58.0,Arecanut,2644,Rabi,47.12439418416801,False
+2014,Kodagu,391,3550.0,27.0,Laterite,Basin,1901.0,58.0,Arecanut,44235,Rabi,4.861892583120205,False
+2015,Kodagu,211,3550.0,27.2,Laterite,Basin,972.0,59.0,Arecanut,203317,Rabi,4.606635071090047,False
+2016,Kodagu,153,3654.0,27.2,Laterite,Basin,874.0,50.0,Arecanut,2134,Rabi,5.712418300653595,False
+2017,Kodagu,111,3654.0,27.2,Laterite,Basin,592.0,54.0,Arecanut,45186,Rabi,5.333333333333333,False
+2018,Kodagu,76,3654.0,27.1,Laterite,Basin,864.0,53.0,Arecanut,238542,Rabi,11.368421052631579,False
+2019,Kodagu,53,233.0,27.1,Laterite,Basin,5373.0,52.0,Arecanut,1516,Rabi,101.37735849056604,False
+2004,Kodagu,2688,233.0,27.1,Laterite,Basin,6589.0,51.0,Arecanut,57259,Rabi,2.451264880952381,False
+2005,Kodagu,2311,233.0,26.8,Laterite,Basin,5107.0,57.0,Arecanut,234779,Rabi,2.2098658589355256,False
+2006,Kodagu,2188,234.0,26.8,Laterite,Basin,5518.0,57.0,Arecanut,1493,Rabi,2.5219378427787933,False
+2007,Kodagu,1998,234.0,26.8,Laterite,Basin,4912.0,60.0,Arecanut,64409,Rabi,2.4584584584584586,False
+2008,Kodagu,2006,234.0,37.0,Laterite,Basin,3830.0,57.0,Ginger,249978,Rabi,1.909272183449651,False
+2009,Kodagu,2034,3105.0,37.0,Laterite,Basin,4.0,57.0,Ginger,637,Rabi,0.0019665683382497543,False
+2010,Kodagu,2035,3105.0,37.0,Laterite,Basin,9.0,54.0,Ginger,43311,Rabi,0.004422604422604423,False
+2011,Kodagu,2074,3105.0,38.0,Laterite,Basin,12.0,54.5,Ginger,24848,Rabi,0.0057859209257473485,False
+2012,Kodagu,2127,236.0,38.0,Laterite,Basin,2089.0,56.6,Ginger,761,Rabi,0.9821344616831218,False
+2013,Mysuru,2090,236.0,38.0,Laterite,Basin,2810.0,55.5,Ginger,45608,Rabi,1.3444976076555024,False
+2014,Mysuru,2059,2903.1,39.0,Laterite,Basin,841.0,58.5,Ginger,234581,Rabi,0.4084507042253521,False
+2015,Mysuru,2050,2903.1,39.0,Laterite,Basin,3550.0,59.5,Ginger,646,Rabi,1.7317073170731707,False
+2016,Mysuru,1865,2903.1,39.0,Laterite,Basin,109.0,55.0,Ginger,43562,Rabi,0.05844504021447721,False
+2017,Mysuru,1841,2996.6,40.0,Laterite,Basin,3368.0,53.0,Ginger,200000,Rabi,1.8294405214557306,False
+2018,Mysuru,1799,2996.6,40.0,Laterite,Basin,3671.0,53.5,Ginger,4847,Rabi,2.0405780989438576,False
+2012,Mysuru,1468,2996.6,40.0,Laterite,Basin,2404.0,52.5,Ginger,51239,Rabi,1.6376021798365124,False
+2013,Mysuru,568,3522.8,41.0,Laterite,Basin,2805.0,56.0,Ginger,216396,Rabi,4.938380281690141,False
+2014,Mysuru,407,3522.8,41.0,Laterite,Basin,2331.0,57.0,Ginger,2644,Rabi,5.7272727272727275,False
+2015,Mysuru,177,3522.8,41.0,Laterite,Basin,2088.0,57.5,Ginger,44235,Rabi,11.796610169491526,False
+2006,Kasaragodu,29,3729.8,37.0,Sandy loam ,Spray,187.0,57.5,Paddy,200000,Rabi,6.448275862068965,False
+2018,Raichur,146,3605.4,130.0,Sandy loam ,Drip,167.0,55.5,Blackgram,234581,Rabi,1.143835616438356,False
+2013,Gulbarga,103,234.0,27.0,Black,Drip,71.0,56.0,Cashew,249978,Rabi,0.6893203883495146,False
+2015,Gulbarga,7501,3360.0,37.0,Red,Drip,1402.0,50.0,Ginger,216396,Rabi,0.1869084122117051,False
+2016,Gulbarga,7714,3605.4,38.0,Red,Drip,23456.0,54.0,Ginger,2644,Rabi,3.040705211304122,False
+2017,Gulbarga,7856,3605.4,38.0,Red,Drip,107809.0,53.0,Ginger,44235,Rabi,13.723141547861507,False
+2018,Gulbarga,32,3605.4,38.0,Red,Basin,1132.0,59.5,Ginger,203317,Rabi,35.375,False
+2004,Gulbarga,1,3512.4,39.0,Red,Basin,23960.0,55.0,Ginger,2134,Rabi,23960.0,False
+2005,Gulbarga,30,3512.4,39.0,Red,Basin,126487.0,53.0,Ginger,45186,Rabi,4216.233333333334,False
+2006,Gulbarga,6,3512.4,39.0,Red,Basin,804.0,53.5,Ginger,238542,Rabi,134.0,False
+2007,Gulbarga,15,3296.0,40.0,Red,Basin,30362.0,52.5,Ginger,1516,Rabi,2024.1333333333334,False
+2008,Gulbarga,4,3296.0,40.0,Red,Basin,124492.0,56.0,Ginger,57259,Rabi,31123.0,False
+2009,Gulbarga,39,3296.0,40.0,Red,Basin,792.0,57.0,Ginger,234779,Rabi,20.307692307692307,False
+2010,Gulbarga,6,3550.0,41.0,Red,Basin,34153.0,57.5,Ginger,1493,Rabi,5692.166666666667,False
+2011,Gulbarga,12,3550.0,41.0,Alluvial,Basin,2570.0,57.0,Ginger,64409,Rabi,214.16666666666666,False
+2012,Gulbarga,3,3550.0,41.0,Alluvial,Basin,27170.0,55.0,Ginger,249978,Rabi,9056.666666666666,False
+2013,Gulbarga,17,3654.0,42.0,Alluvial,Basin,114744.0,56.0,Ginger,637,Rabi,6749.64705882353,False
+2014,Gulbarga,3,3654.0,42.0,Alluvial,Basin,1402.0,54.0,Ginger,43311,Rabi,467.3333333333333,False
+2015,Madikeri,14179,236.0,27.2,Alluvial,Drip,132551.0,54.0,Coconut,1516,Rabi,9.34840256717681,False
+2018,Madikeri,14876,2903.1,27.0,Alluvial,Drip,131763.0,51.0,Coconut,1493,Rabi,8.857421349825222,False
+2006,Madikeri,15114,2996.6,27.0,Alluvial,Drip,124387.0,60.0,Coconut,637,Rabi,8.22991928013762,False
+2009,Madikeri,17512,3522.8,27.2,Alluvial,Drip,117825.84,54.0,Coconut,761,Rabi,6.728291457286432,False
+2012,Madikeri,17825,3729.8,27.1,Arid and Desert,Drip,116481.07,55.5,Coconut,646,Rabi,6.534702384291726,False
+2014,Madikeri,2578,2746.2,26.8,Arid and Desert,Drip,21400.0,59.5,Coconut,200000,Rabi,8.30100853374709,False
+2006,Chikmangaluru,2311,3550.0,41.0,Arid and Desert,Drip,17690.0,50.0,Coconut,249978,Rabi,7.654694937256599,False
+2017,Chikmangaluru,6186,2746.2,38.0,Red,Basin,58637.0,57.0,Coconut,57259,Rabi,9.478984804397026,False
+2017,Chikmangaluru,6503,2746.2,39.0,Red,Basin,59777.0,60.0,Coconut,234779,Rabi,9.192218975857296,False
+2016,Chikmangaluru,5220,2746.2,39.0,Red,Basin,60528.0,57.0,Coconut,1493,Rabi,11.595402298850574,False
+2017,Chikmangaluru,4677,3360.0,39.0,Red,Basin,61126.0,57.0,Coconut,64409,Rabi,13.069488988667949,False
+2018,Chikmangaluru,13283,3512.4,42.0,Red,Basin,154889.0,55.0,Coconut,234581,Rabi,11.660694120304148,False
+2006,Hassan,12885,3296.0,43.0,Red,Spray,177939.0,52.5,Coconut,200000,Rabi,13.809778812572759,False
+2008,Hassan,468,3550.0,128.0,Red,Spray,2783.0,57.0,Coconut,51239,Rabi,5.946581196581197,False
+2004,Hassan,468,2996.6,27.0,Alluvial,Spray,4015.0,56.6,Coconut,43562,Rabi,8.57905982905983,False
+2004,Kodagu,48083,234.0,27.0,Clay,Drip,29170.0,57.0,Cardamum,44235,Zaid,0.6066593182621717,False
+2004,Kodagu,143,234.0,27.0,Clay,Drip,1901.0,55.0,Cardamum,203317,Zaid,13.293706293706293,False
+2004,Kodagu,9283,234.0,27.0,Clay,Drip,972.0,56.0,Cardamum,2134,Zaid,0.10470752989335344,False
+2004,Kodagu,47200,3105.0,27.0,Clay,Drip,874.0,54.0,Cardamum,45186,Zaid,0.018516949152542372,False
+2004,Kodagu,158,3105.0,27.0,Clay,Drip,592.0,58.0,Cardamum,238542,Zaid,3.7468354430379747,False
+2004,Kodagu,8982,3105.0,27.2,Clay,Drip,864.0,58.0,Cardamum,1516,Zaid,0.09619238476953908,False
+2004,Kodagu,46990,236.0,27.2,Clay,Drip,5373.0,59.0,Cardamum,57259,Zaid,0.11434347733560332,False
+2004,Kodagu,103,236.0,27.2,Clay,Drip,6589.0,50.0,Cardamum,234779,Zaid,63.970873786407765,False
+2004,Kodagu,8239,2903.1,27.0,Clay,Drip,5107.0,54.0,Cardamum,1493,Zaid,0.6198567787352834,False
+2004,Kodagu,44563,2903.1,27.0,Clay,Drip,5518.0,53.0,Cardamum,64409,Zaid,0.12382469761910105,False
+2004,Kodagu,96,2903.1,27.0,Clay,Drip,4912.0,52.0,Cardamum,249978,Zaid,51.166666666666664,False
+2004,Kodagu,6949,2996.6,27.0,Clay,Drip,3830.0,51.0,Cardamum,637,Zaid,0.5511584400633185,False
+2004,Kodagu,44663,2996.6,27.0,Clay,Drip,4.0,57.0,Cardamum,43311,Zaid,8.955959071267044e-05,False
+2004,Kasaragodu,110,2996.6,27.0,Clay,Drip,9.0,57.0,Cardamum,24848,Zaid,0.08181818181818182,False
+2004,Kasaragodu,6824,3522.8,27.2,Clay,Drip,12.0,60.0,Cardamum,761,Zaid,0.0017584994138335288,False
+2004,Kasaragodu,4012,2903.1,27.1,Clay,Drip,3550.0,54.5,Pepper,43562,Zaid,0.8848454636091725,False
+2004,Kasaragodu,4930,2996.6,26.8,Clay,Drip,3368.0,55.5,Pepper,4847,Zaid,0.6831643002028398,False
+2004,Kasaragodu,4954,2996.6,26.8,Clay,Drip,3671.0,58.5,Pepper,51239,Zaid,0.7410173597093258,False
+2004,Kasaragodu,5127,3522.8,37.0,Clay,Basin,2805.0,55.0,Pepper,2644,Zaid,0.5471035693387947,False
+2004,Raichur,7501,2746.2,39.0,Sandy loam ,Basin,127919.0,57.0,Arecanut,200000,Zaid,17.053592854286094,False
+2004,Raichur,7714,2746.2,39.0,Sandy loam ,Basin,75340.0,55.0,Arecanut,4847,Zaid,9.766658024371273,False
+2004,Raichur,7856,3360.0,40.0,Sandy loam ,Basin,29170.0,56.0,Arecanut,51239,Zaid,3.7130855397148674,False
+2004,Raichur,32,3360.0,40.0,Sandy loam ,Basin,1901.0,54.0,Arecanut,216396,Zaid,59.40625,False
+2004,Raichur,1,3360.0,40.0,Sandy loam ,Basin,972.0,58.0,Arecanut,2644,Zaid,972.0,False
+2004,Raichur,30,3605.4,41.0,Sandy loam ,Basin,874.0,58.0,Arecanut,44235,Zaid,29.133333333333333,False
+2004,Raichur,6,3605.4,41.0,Sandy loam ,Basin,592.0,59.0,Arecanut,203317,Zaid,98.66666666666667,False
+2004,Raichur,15,3605.4,41.0,Sandy loam ,Basin,864.0,50.0,Arecanut,2134,Zaid,57.6,False
+2004,Raichur,4,3512.4,42.0,Sandy loam ,Basin,5373.0,54.0,Arecanut,45186,Zaid,1343.25,False
+2004,Raichur,39,3512.4,42.0,Sandy loam ,Basin,6589.0,53.0,Arecanut,238542,Zaid,168.94871794871796,False
+2004,Raichur,6,3512.4,42.0,Sandy loam ,Basin,5107.0,52.0,Arecanut,1516,Zaid,851.1666666666666,False
+2004,Raichur,12,3296.0,43.0,Sandy loam ,Basin,5518.0,51.0,Arecanut,57259,Zaid,459.8333333333333,False
+2004,Raichur,3,3296.0,27.0,Sandy loam ,Basin,4912.0,57.0,Arecanut,234779,Zaid,1637.3333333333333,False
+2004,Raichur,17,3296.0,27.0,Sandy loam ,Basin,3830.0,57.0,Arecanut,1493,Zaid,225.2941176470588,False
+2004,Raichur,3,3550.0,27.0,Sandy loam ,Basin,4.0,60.0,Arecanut,64409,Zaid,1.3333333333333333,False
+2004,Raichur,9,3550.0,27.0,Sandy loam ,Basin,9.0,57.0,Ginger,249978,Zaid,1.0,False
+2004,Raichur,21,3550.0,27.0,Sandy loam ,Basin,12.0,57.0,Ginger,637,Zaid,0.5714285714285714,False
+2004,Raichur,11,3654.0,27.0,Sandy loam ,Basin,2089.0,54.0,Ginger,43311,Zaid,189.9090909090909,False
+2004,Gulbarga,4,3654.0,27.2,Sandy loam ,Basin,2810.0,54.5,Ginger,24848,Zaid,702.5,False
+2004,Gulbarga,15,3654.0,27.2,Sandy loam ,Basin,841.0,56.6,Ginger,761,Zaid,56.06666666666667,False
+2004,Gulbarga,8,233.0,27.2,Sandy loam ,Basin,3550.0,55.5,Ginger,45608,Zaid,443.75,False
+2004,Gulbarga,29,233.0,27.0,Sandy loam ,Basin,109.0,58.5,Ginger,234581,Zaid,3.7586206896551726,False
+2004,Gulbarga,1,233.0,27.0,Sandy loam ,Basin,3368.0,59.5,Ginger,646,Zaid,3368.0,False
+2004,Gulbarga,13736,234.0,27.0,Sandy loam ,Basin,3671.0,55.0,Ginger,43562,Zaid,0.26725393127548047,False
+2004,Gulbarga,14003,234.0,27.0,Sandy loam ,Basin,2404.0,53.0,Ginger,200000,Zaid,0.17167749767906876,False
+2004,Gulbarga,14179,234.0,27.0,Sandy loam ,Basin,2805.0,53.5,Ginger,4847,Zaid,0.1978277734678045,False
+2004,Gulbarga,14319,3105.0,27.0,Sandy loam ,Basin,2331.0,52.5,Ginger,51239,Zaid,0.16279069767441862,False
+2004,Gulbarga,14464,3105.0,27.2,Sandy loam ,Basin,2088.0,56.0,Ginger,216396,Zaid,0.144358407079646,False
+2004,Gulbarga,14876,3105.0,27.2,Loam,Basin,2628.0,57.0,Ginger,2644,Zaid,0.17666039257865018,False
+2004,Gulbarga,14976,236.0,27.2,Loam,Basin,1939.0,57.5,Ginger,44235,Zaid,0.1294738247863248,False
+2004,Gulbarga,17512,2996.6,26.8,Loam,Basin,29170.0,58.0,Tea,1516,Zaid,1.6657149383280037,False
+2004,Gulbarga,819,2996.6,40.0,Loam,Spray,3830.0,57.0,Paddy,234581,Rabi,4.676434676434677,False
+2013,Gulbarga,391,3522.8,40.0,Loam,Spray,2783.0,54.0,Paddy,43562,Rabi,7.117647058823529,False
+2014,Gulbarga,211,3522.8,41.0,Loam,Spray,1533.0,54.5,Paddy,200000,Rabi,7.265402843601896,False
+2013,Gulbarga,2090,2903.1,134.0,Loam,Spray,3961.0,56.0,Groundnut,216396,Rabi,1.8952153110047847,False
+2014,Gulbarga,2059,2996.6,135.0,Loam,Spray,4247.0,54.0,Groundnut,2644,Rabi,2.0626517727051965,False
+2015,Gulbarga,2050,2996.6,136.0,Laterite,Spray,3290.0,58.0,Groundnut,44235,Rabi,1.604878048780488,False
+2016,Gulbarga,1865,2996.6,137.0,Laterite,Spray,3138.0,58.0,Groundnut,203317,Rabi,1.682573726541555,False
+2017,Gulbarga,1841,3522.8,138.0,Laterite,Spray,3423.0,59.0,Groundnut,2134,Rabi,1.8593155893536122,False
+2018,Gulbarga,1799,3522.8,139.0,Laterite,Spray,3899.0,50.0,Groundnut,45186,Rabi,2.167315175097276,False
+2004,Gulbarga,1468,3522.8,140.0,Laterite,Spray,4015.0,54.0,Groundnut,238542,Rabi,2.7350136239782015,False
+2007,Gulbarga,206,2903.1,188.0,Clay,Drip,2570.0,56.0,Coconut,238542,Rabi,12.475728155339805,False
+2010,Gulbarga,177,2996.6,191.0,Clay,Drip,1402.0,58.0,Coconut,4847,Rabi,7.9209039548022595,False
+2012,Gulbarga,51709,3522.8,193.0,Clay,Drip,107809.0,50.0,Ginger,216396,Rabi,2.084917519193951,False
+2013,Gulbarga,146,3522.8,194.0,Clay,Drip,1132.0,54.0,Ginger,2644,Rabi,7.7534246575342465,False
+2014,Madikeri,10910,3729.8,195.0,Clay,Drip,23960.0,53.0,Ginger,44235,Rabi,2.1961503208065993,False
+2015,Madikeri,51355,3729.8,196.0,Clay,Basin,126487.0,59.5,Ginger,203317,Rabi,2.462992892610262,False
+2016,Madikeri,160,3729.8,197.0,Sandy,Basin,804.0,55.0,Ginger,2134,Rabi,5.025,False
+2017,Madikeri,10912,2746.2,198.0,Sandy,Basin,30362.0,53.0,Ginger,45186,Rabi,2.782441348973607,False
+2018,Madikeri,51353,2746.2,199.0,Sandy,Basin,124492.0,53.5,Ginger,238542,Rabi,2.4242400638716335,False
+2004,Madikeri,142,2746.2,200.0,Sandy,Basin,792.0,52.5,Ginger,1516,Rabi,5.577464788732394,False
+2005,Madikeri,10505,3360.0,201.0,Sandy,Basin,34153.0,56.0,Ginger,57259,Rabi,3.2511185149928608,False
+2006,Madikeri,51040,3360.0,202.0,Sandy,Basin,2570.0,57.0,Ginger,234779,Rabi,0.05035266457680251,False
+2007,Madikeri,154,3360.0,203.0,Sandy,Basin,27170.0,57.5,Ginger,1493,Rabi,176.42857142857142,False
+2008,Madikeri,10318,3605.4,204.0,Sandy,Basin,114744.0,57.0,Ginger,64409,Rabi,11.120759837177747,False
+2009,Madikeri,48083,3605.4,205.0,Sandy,Basin,1402.0,55.0,Ginger,249978,Rabi,0.029157914439614834,False
+2010,Madikeri,143,3605.4,206.0,Sandy,Basin,23456.0,56.0,Ginger,637,Rabi,164.02797202797203,False
+2011,Madikeri,9283,3512.4,207.0,Sandy,Basin,107809.0,54.0,Ginger,43311,Rabi,11.613594743078746,False
+2014,Madikeri,8982,3296.0,210.0,Loam,Drip,126487.0,57.0,Coconut,51239,Rabi,14.082275662435983,False
+2011,Hassan,7856,3522.8,27.2,Alluvial,Drip,110579.0,56.0,Coconut,44235,Rabi,14.075738289205702,False
+2012,Hassan,32,3729.8,27.2,Alluvial,Drip,221.0,57.0,Coconut,203317,Rabi,6.90625,False
+2018,Hassan,39,3360.0,26.8,Alluvial,Drip,283.0,58.0,Coconut,234779,Rabi,7.256410256410256,False
+2004,Hassan,14179,3654.0,41.0,Alluvial,Basin,109506.0,55.5,Coconut,2644,Rabi,7.723111643980535,False
+2006,Hassan,4,3105.0,27.0,Red,Basin,56.0,50.0,Coconut,44235,Rabi,14.0,False
+2018,Mangalore,8982,3296.0,27.0,Alluvial,Drip,972.0,57.0,Cardamum,44235,Rabi,0.10821643286573146,False
+2004,Mangalore,46990,3550.0,27.0,Alluvial,Drip,874.0,55.0,Cardamum,203317,Rabi,0.018599702064268992,False
+2005,Mangalore,103,3550.0,27.2,Alluvial,Drip,592.0,56.0,Cardamum,2134,Rabi,5.747572815533981,False
+2006,Mangalore,8239,3550.0,27.2,Alluvial,Drip,864.0,54.0,Cardamum,45186,Rabi,0.10486709552130113,False
+2007,Mangalore,44563,3654.0,27.2,Alluvial,Drip,5373.0,58.0,Cardamum,238542,Rabi,0.12057087718510873,False
+2008,Mangalore,96,3654.0,27.0,Black,Drip,6589.0,58.0,Cardamum,1516,Rabi,68.63541666666667,False
+2009,Mangalore,6949,3654.0,27.0,Black,Drip,5107.0,59.0,Cardamum,57259,Rabi,0.7349258886170672,False
+2010,Kodagu,44663,233.0,27.0,Black,Drip,5518.0,50.0,Cardamum,234779,Rabi,0.12354745538812888,False
+2011,Kodagu,110,233.0,27.0,Black,Drip,4912.0,54.0,Cardamum,1493,Rabi,44.654545454545456,False
+2012,Kodagu,6824,233.0,27.0,Black,Drip,3830.0,53.0,Cardamum,64409,Rabi,0.5612543962485346,False
+2013,Kodagu,43013,234.0,27.0,Black,Drip,4.0,52.0,Cardamum,249978,Rabi,9.299514100388255e-05,False
+2014,Kodagu,95,234.0,27.2,Black,Drip,9.0,51.0,Cardamum,637,Rabi,0.09473684210526316,False
+2015,Kodagu,6441,234.0,27.2,Black,Drip,12.0,57.0,Cardamum,43311,Rabi,0.0018630647414997672,False
+2016,Kodagu,4012,3105.0,27.2,Black,Drip,2089.0,57.0,Cardamum,24848,Rabi,0.5206879361914257,False
+2017,Kodagu,4877,3105.0,27.1,Black,Drip,2810.0,60.0,Cardamum,761,Rabi,0.5761738773836375,False
+2019,Kodagu,4954,236.0,27.1,Black,Drip,3550.0,57.0,Pepper,234581,Rabi,0.7165926524020994,False
+2013,Kodagu,5127,2903.1,26.8,Black,Drip,3368.0,54.5,Pepper,43562,Rabi,0.6569143748780963,False
+2014,Kodagu,5174,2903.1,26.8,Black,Drip,3671.0,56.6,Pepper,200000,Rabi,0.7095090838809431,False
+2016,Kodagu,5474,2996.6,37.0,Black,Drip,2805.0,58.5,Pepper,51239,Rabi,0.5124223602484472,False
+2010,Kodagu,30,2996.6,40.0,Black,Basin,29170.0,57.0,Arecanut,200000,Rabi,972.3333333333334,False
+2011,Kodagu,6,2996.6,40.0,Black,Basin,1901.0,55.0,Arecanut,4847,Rabi,316.8333333333333,False
+2012,Kodagu,15,2996.6,41.0,Black,Basin,972.0,56.0,Arecanut,51239,Rabi,64.8,False
+2013,Kodagu,4,3522.8,41.0,Black,Basin,874.0,54.0,Arecanut,216396,Rabi,218.5,False
+2014,Kodagu,39,3522.8,41.0,Black,Basin,592.0,58.0,Arecanut,2644,Rabi,15.179487179487179,False
+2015,Kodagu,6,3522.8,42.0,Black,Basin,864.0,58.0,Arecanut,44235,Rabi,144.0,False
+2016,Kodagu,12,3729.8,42.0,Black,Basin,5373.0,59.0,Arecanut,203317,Rabi,447.75,False
+2017,Kodagu,3,3729.8,42.0,Black,Basin,6589.0,50.0,Arecanut,2134,Rabi,2196.3333333333335,False
+2018,Mysuru,17,3729.8,43.0,Black,Basin,5107.0,54.0,Arecanut,45186,Rabi,300.4117647058824,False
+2013,Mysuru,3,2746.2,43.0,Black,Basin,5518.0,53.0,Arecanut,238542,Rabi,1839.3333333333333,False
+2014,Mysuru,9,2746.2,27.0,Black,Basin,4912.0,52.0,Arecanut,1516,Rabi,545.7777777777778,False
+2015,Mysuru,21,2746.2,27.0,Black,Basin,3830.0,51.0,Arecanut,57259,Rabi,182.38095238095238,False
+2016,Mysuru,11,3360.0,27.0,Black,Basin,4.0,57.0,Arecanut,234779,Rabi,0.36363636363636365,False
+2017,Mysuru,4,3360.0,27.0,Black,Basin,9.0,57.0,Arecanut,1493,Rabi,2.25,False
+2018,Mysuru,15,3360.0,27.0,Black,Basin,12.0,60.0,Arecanut,64409,Rabi,0.8,False
+2004,Mysuru,8,3605.4,27.0,Black,Basin,2089.0,57.0,Ginger,249978,Rabi,261.125,False
+2005,Mysuru,29,3605.4,27.2,Black,Basin,2810.0,57.0,Ginger,637,Rabi,96.89655172413794,False
+2006,Mysuru,1,3605.4,27.2,Loam,Basin,841.0,54.0,Ginger,43311,Rabi,841.0,False
+2007,Mysuru,13736,3512.4,27.2,Loam,Basin,3550.0,54.5,Ginger,24848,Rabi,0.25844496214327317,False
+2008,Mysuru,14003,3512.4,27.0,Loam,Basin,109.0,56.6,Ginger,761,Rabi,0.0077840462757980435,False
+2009,Mysuru,14179,3512.4,27.0,Loam,Basin,3368.0,55.5,Ginger,45608,Rabi,0.23753438183228717,False
+2010,Mysuru,14319,3296.0,27.0,Loam,Basin,3671.0,58.5,Ginger,234581,Rabi,0.25637265172148893,False
+2011,Mysuru,14464,3296.0,27.0,Loam,Basin,2404.0,59.5,Ginger,646,Rabi,0.16620575221238937,False
+2012,Mysuru,14876,3296.0,27.0,Loam,Basin,2805.0,55.0,Ginger,43562,Rabi,0.188558752352783,False
+2013,Mysuru,14976,3550.0,27.0,Loam,Basin,2331.0,53.0,Ginger,200000,Rabi,0.15564903846153846,False
+2014,Mysuru,15009,3550.0,27.2,Loam,Basin,2088.0,53.5,Ginger,4847,Rabi,0.13911653008195082,False
+2015,Mysuru,15114,3550.0,27.2,Loam,Basin,2628.0,52.5,Ginger,51239,Rabi,0.1738785232235014,False
+2016,Mysuru,16224,3654.0,27.2,Loam,Basin,1939.0,56.0,Ginger,216396,Rabi,0.11951429980276135,False
+2017,Mysuru,17095,3654.0,27.1,Loam,Basin,1871.0,57.0,Ginger,2644,Rabi,0.10944720678560983,False
+2018,Mysuru,17512,3654.0,27.1,Loam,Basin,1868.0,57.5,Ginger,44235,Rabi,0.10666971219735039,False
+2017,Mysuru,17825,233.0,26.8,Loam,Basin,29170.0,56.0,Tea,45186,Rabi,1.6364656381486675,False
+2016,Mysuru,1865,3729.8,27.2,Light sandy,Spray,3961.0,57.0,Groundnut,4847,Zaid,2.1238605898123324,False
+2017,Mysuru,1841,3729.8,27.2,Light sandy,Spray,4247.0,55.0,Groundnut,51239,Zaid,2.3068984247691473,False
+2018,Mysuru,1799,2746.2,27.0,Light sandy,Spray,3290.0,56.0,Groundnut,216396,Zaid,1.828793774319066,False
+2004,Kasaragodu,1468,2746.2,27.0,Light sandy,Spray,3138.0,54.0,Groundnut,2644,Zaid,2.137602179836512,False
+2015,Raichur,468,3105.0,139.0,Heavy clay,Drip,3472.0,53.0,Coconut,4847,Zaid,7.418803418803419,False
+2006,Raichur,177,2903.1,145.0,Heavy clay,Drip,2570.0,57.0,Coconut,2134,Zaid,14.519774011299434,False
+2009,Raichur,146,2996.6,148.0,Loam,Drip,1402.0,54.0,Coconut,1516,Zaid,9.602739726027398,False
+2012,Raichur,160,3550.0,151.0,Loam,Drip,1132.0,59.0,Coconut,51239,Zaid,7.075,False
+2013,Raichur,10912,3550.0,152.0,Loam,Drip,23960.0,50.0,Ginger,216396,Zaid,2.1957478005865103,False
+2014,Raichur,51353,3654.0,153.0,Loam,Drip,126487.0,54.0,Ginger,2644,Zaid,2.463088816622203,False
+2015,Gulbarga,142,3654.0,154.0,Loam,Drip,804.0,53.0,Ginger,44235,Zaid,5.661971830985915,False
+2016,Gulbarga,10505,3654.0,155.0,Loam,Basin,30362.0,59.5,Ginger,203317,Zaid,2.890242741551642,False
+2017,Gulbarga,51040,233.0,156.0,Loam,Basin,124492.0,55.0,Ginger,2134,Zaid,2.4391065830721,False
+2004,Gulbarga,154,233.0,157.0,Loam,Basin,792.0,53.0,Ginger,45186,Zaid,5.142857142857143,False
+2004,Gulbarga,10318,233.0,158.0,Loam,Basin,34153.0,53.5,Ginger,238542,Zaid,3.3100407055630936,False
+2004,Gulbarga,48083,234.0,159.0,Loam,Basin,2570.0,52.5,Ginger,1516,Zaid,0.05344924401555643,False
+2004,Gulbarga,143,234.0,160.0,Loam,Basin,27170.0,56.0,Ginger,57259,Zaid,190.0,False
+2004,Gulbarga,9283,234.0,161.0,Loam,Basin,114744.0,57.0,Ginger,234779,Zaid,12.360659269632661,False
+2004,Gulbarga,47200,3105.0,162.0,Loam,Basin,1402.0,57.5,Ginger,1493,Zaid,0.029703389830508475,False
+2004,Gulbarga,158,3105.0,163.0,Loam,Basin,23456.0,57.0,Ginger,64409,Zaid,148.45569620253164,False
+2004,Gulbarga,8982,3105.0,164.0,Loam,Basin,107809.0,55.0,Ginger,249978,Zaid,12.002783344466712,False
+2004,Gulbarga,46990,236.0,165.0,Loam,Basin,1132.0,56.0,Ginger,637,Zaid,0.024090231964247713,False
+2004,Gulbarga,103,236.0,166.0,Loam,Basin,23960.0,54.0,Ginger,43311,Zaid,232.62135922330097,False
+2004,Madikeri,32,3605.4,192.0,Dry sandy ,Drip,231.0,55.0,Coconut,4847,Zaid,7.21875,False
+2004,Madikeri,39,3296.0,198.0,Dry sandy ,Drip,291.0,57.5,Coconut,2134,Zaid,7.461538461538462,False
+2004,Madikeri,14003,3105.0,213.0,Dry sandy ,Basin,86311.0,60.0,Coconut,646,Zaid,6.1637506248661005,False
+2004,Madikeri,14876,2903.1,217.0,Dry sandy ,Basin,109506.0,54.5,Coconut,51239,Zaid,7.3612530250067225,False
+2004,Chikmangaluru,4,2746.2,27.0,Dry sandy ,Basin,44.0,56.0,Coconut,200000,Zaid,11.0,False
+2004,Chikmangaluru,326,3512.4,27.0,Dry sandy ,Spray,4167.0,54.0,Coconut,234581,Zaid,12.782208588957054,False
+2016,Hassan,96,3512.4,27.2,Alluvial,Drip,592.0,57.0,Cardamum,44235,Zaid,6.166666666666667,False
+2017,Hassan,6949,3512.4,27.0,Alluvial,Drip,864.0,55.0,Cardamum,203317,Zaid,0.12433443660958411,False
+2018,Hassan,44663,3296.0,27.0,Alluvial,Drip,5373.0,56.0,Cardamum,2134,Zaid,0.12030092022479458,False
+2004,Hassan,110,3296.0,27.0,Alluvial,Drip,6589.0,54.0,Cardamum,45186,Zaid,59.9,False
+2005,Hassan,6824,3296.0,27.0,Alluvial,Drip,5107.0,58.0,Cardamum,238542,Zaid,0.7483880422039859,False
+2006,Hassan,43013,3550.0,27.0,Alluvial,Drip,5518.0,58.0,Cardamum,1516,Zaid,0.12828679701485599,False
+2007,Hassan,95,3550.0,27.0,Alluvial,Drip,4912.0,59.0,Cardamum,57259,Zaid,51.705263157894734,False
+2008,Hassan,6441,3550.0,27.2,Alluvial,Drip,3830.0,50.0,Cardamum,234779,Zaid,0.5946281633286756,False
+2009,Hassan,4012,3654.0,27.2,Alluvial,Drip,4.0,54.0,Cardamum,1493,Zaid,0.0009970089730807576,False
+2010,Hassan,4877,3654.0,27.2,Alluvial,Drip,9.0,53.0,Cardamum,64409,Zaid,0.0018453967603034652,False
+2011,Hassan,4930,3654.0,27.1,Alluvial,Drip,12.0,52.0,Cardamum,249978,Zaid,0.002434077079107505,False
+2012,Hassan,4954,233.0,27.1,Alluvial,Drip,2089.0,51.0,Cardamum,637,Zaid,0.4216794509487283,False
+2013,Hassan,5019,233.0,27.1,Alluvial,Drip,2810.0,57.0,Cardamum,43311,Zaid,0.559872484558677,False
+2014,Hassan,5127,233.0,26.8,Alluvial,Drip,841.0,57.0,Cardamum,24848,Zaid,0.16403354788375268,False
+2015,Hassan,5174,2903.1,26.8,Alluvial,Drip,3550.0,60.0,Cardamum,761,Zaid,0.6861229223038269,False
+2017,Hassan,5474,2903.1,27.1,Alluvial,Drip,3368.0,57.0,Pepper,234581,Kharif,0.6152721958348557,False
+2018,Hassan,5864,2996.6,26.8,Alluvial,Drip,3671.0,54.0,Pepper,646,Kharif,0.6260231923601637,False
+2016,Hassan,6,3360.0,40.0,Red,Basin,972.0,57.0,Arecanut,200000,Kharif,162.0,False
+2017,Hassan,12,3360.0,40.0,Red,Basin,874.0,55.0,Arecanut,4847,Kharif,72.83333333333333,False
+2018,Hassan,3,3605.4,41.0,Red,Basin,592.0,56.0,Arecanut,51239,Kharif,197.33333333333334,False
+2004,Hassan,17,3605.4,41.0,Red,Basin,864.0,54.0,Arecanut,216396,Kharif,50.8235294117647,False
+2005,Hassan,3,3605.4,41.0,Red,Basin,5373.0,58.0,Arecanut,2644,Kharif,1791.0,False
+2006,Hassan,9,3512.4,42.0,Red,Basin,6589.0,58.0,Arecanut,44235,Kharif,732.1111111111111,False
+2007,Hassan,21,3512.4,42.0,Red,Basin,5107.0,59.0,Arecanut,203317,Kharif,243.1904761904762,False
+2008,Hassan,11,3512.4,27.0,Red,Basin,5518.0,50.0,Arecanut,2134,Kharif,501.6363636363636,False
+2009,Hassan,4,3296.0,27.0,Red,Basin,4912.0,54.0,Arecanut,45186,Kharif,1228.0,False
+2010,Hassan,15,3296.0,27.0,Red,Basin,3830.0,53.0,Arecanut,238542,Kharif,255.33333333333334,False
+2011,Hassan,8,3296.0,27.0,Red,Basin,4.0,52.0,Arecanut,1516,Kharif,0.5,False
+2012,Hassan,29,3550.0,27.0,Red,Basin,9.0,51.0,Arecanut,57259,Kharif,0.3103448275862069,False
+2013,Hassan,1,3550.0,27.0,Red,Basin,12.0,57.0,Arecanut,234779,Kharif,12.0,False
+2014,Hassan,13736,3550.0,27.2,Red,Basin,2089.0,57.0,Arecanut,1493,Kharif,0.15208211997670354,False
+2015,Hassan,14003,3654.0,27.2,Red,Basin,2810.0,60.0,Arecanut,64409,Kharif,0.20067128472470186,False
+2016,Hassan,14179,3654.0,27.2,Red,Basin,841.0,57.0,Ginger,249978,Kharif,0.059313068622610904,False
+2017,Hassan,14319,3654.0,27.0,Red,Basin,3550.0,57.0,Ginger,637,Kharif,0.24792234094559676,False
+2018,Hassan,14464,233.0,27.0,Red,Basin,109.0,54.0,Ginger,43311,Kharif,0.007535951327433628,False
+2004,Hassan,14876,233.0,27.0,Red,Basin,3368.0,54.5,Ginger,24848,Kharif,0.22640494756655014,False
+2005,Hassan,14976,233.0,27.0,Red,Basin,3671.0,56.6,Ginger,761,Kharif,0.24512553418803418,False
+2006,Hassan,15009,234.0,27.0,Red,Basin,2404.0,55.5,Ginger,45608,Kharif,0.16017056432806984,False
+2007,Hassan,15114,234.0,27.0,Red,Basin,2805.0,58.5,Ginger,234581,Kharif,0.185589519650655,False
+2008,Hassan,16224,234.0,27.2,Red,Basin,2331.0,59.5,Ginger,646,Kharif,0.14367603550295857,False
+2009,Hassan,17095,3105.0,27.2,Red,Basin,2088.0,55.0,Ginger,43562,Kharif,0.1221409768938286,False
+2010,Hassan,17512,3105.0,27.2,Red,Basin,2628.0,53.0,Ginger,200000,Kharif,0.15006852444038374,False
+2011,Hassan,17587,3105.0,27.1,Red,Basin,1939.0,53.5,Ginger,4847,Kharif,0.1102518906010121,False
+2012,Hassan,17771,236.0,27.1,Red,Basin,1871.0,52.5,Ginger,51239,Kharif,0.10528388948286534,False
+2013,Hassan,17825,236.0,27.1,Red,Basin,1868.0,56.0,Ginger,216396,Kharif,0.10479663394109397,False
+2014,Hassan,3147,2903.1,26.8,Sandy,Basin,127919.0,57.0,Ginger,2644,Kharif,40.6479186526851,False
+2015,Hassan,2578,2903.1,26.8,Sandy,Basin,75340.0,57.5,Ginger,44235,Kharif,29.22420480993018,False
+2017,Hassan,1298,2996.6,37.0,Sandy,Basin,1901.0,55.0,Tea,2134,Kharif,1.4645608628659477,False
+2006,Hassan,819,3522.8,38.0,Sandy,Basin,864.0,58.0,Tea,57259,Kharif,1.054945054945055,False
+2014,Hassan,2688,3360.0,41.0,Sandy,Spray,2783.0,57.0,Tea,761,Kharif,1.0353422619047619,False
+2015,Mangalore,568,3654.0,27.2,Sandy,Spray,4247.0,57.5,Paddy,200000,Kharif,7.477112676056338,False
+2010,Mangalore,160,321.0,26.8,Loam,Drip,1402.0,55.0,Coconut,45186,Rabi,8.7625,False
+2013,Mangalore,142,324.0,37.0,Loam,Drip,1132.0,58.0,Coconut,200000,Rabi,7.971830985915493,False
+2016,Mangalore,154,327.0,38.0,Loam,Drip,804.0,50.0,Ginger,216396,Rabi,5.220779220779221,False
+2017,Mangalore,10318,328.0,38.0,Loam,Drip,30362.0,54.0,Ginger,2644,Rabi,2.942624539639465,False
+2018,Mangalore,48083,2903.1,38.0,Loam,Drip,124492.0,53.0,Ginger,44235,Rabi,2.5891063369590084,False
+2012,Mangalore,143,2903.1,39.0,Loam,Basin,792.0,59.5,Ginger,203317,Rabi,5.538461538461538,False
+2013,Mangalore,9283,2903.1,39.0,Loam,Basin,34153.0,55.0,Ginger,2134,Rabi,3.679090811160185,False
+2014,Mangalore,47200,2996.6,39.0,Loam,Basin,2570.0,53.0,Ginger,45186,Rabi,0.05444915254237288,False
+2015,Mangalore,158,2996.6,40.0,Loam,Basin,27170.0,53.5,Ginger,238542,Rabi,171.9620253164557,False
+2016,Mangalore,8982,2996.6,40.0,Sandy loam,Basin,114744.0,52.5,Ginger,1516,Rabi,12.774883099532397,False
+2017,Mangalore,46990,3522.8,40.0,Sandy loam,Basin,1402.0,56.0,Ginger,57259,Rabi,0.029836135347946373,False
+2018,Mangalore,103,3522.8,41.0,Sandy loam,Basin,23456.0,57.0,Ginger,234779,Rabi,227.72815533980582,False
+2019,Mangalore,8239,3522.8,41.0,Sandy loam,Basin,107809.0,57.5,Ginger,1493,Rabi,13.085204515111057,False
+2004,Mangalore,44563,3729.8,41.0,Sandy loam,Basin,1132.0,57.0,Ginger,64409,Rabi,0.025402239526064224,False
+2005,Mangalore,96,3729.8,42.0,Sandy loam,Basin,23960.0,55.0,Ginger,249978,Rabi,249.58333333333334,False
+2006,Mangalore,6949,3729.8,42.0,Sandy loam,Basin,126487.0,56.0,Ginger,637,Rabi,18.202187365088502,False
+2007,Mangalore,44663,2746.2,42.0,Sandy loam,Basin,804.0,54.0,Ginger,43311,Rabi,0.01800147773324676,False
+2005,Kodagu,32,233.0,146.0,Sandy clay loam,Drip,382.0,54.5,Coconut,45608,Rabi,11.9375,False
+2011,Mysuru,39,3105.0,152.0,Sandy clay loam,Drip,221.0,53.0,Coconut,51239,Rabi,5.666666666666667,False
+2005,Kasaragodu,14464,2996.6,170.0,Clay loam,Basin,86311.0,57.0,Coconut,45608,Rabi,5.967298119469026,False
+2009,Kasaragodu,15114,3522.8,174.0,Clay loam,Basin,109506.0,57.0,Coconut,200000,Rabi,7.245335450575626,False
+2004,Kasaragodu,4,3605.4,185.0,Clay loam,Basin,50.0,56.0,Coconut,57259,Rabi,12.5,False
+2014,Raichur,18,2996.6,27.0,Sandy loam,Spray,103.0,58.0,Coconut,238542,Rabi,5.722222222222222,False
+2017,Gulbarga,326,3729.8,27.2,Sandy loam,Spray,3899.0,57.0,Coconut,637,Rabi,11.960122699386503,False
+2014,Madikeri,50975,3522.8,27.0,Clay loam,Drip,75340.0,55.0,Coffee,646,Rabi,1.477979401667484,False
+2017,Madikeri,146,3522.8,27.0,Clay loam,Drip,5373.0,57.0,Cardamum,44235,Rabi,36.8013698630137,False
+2018,Madikeri,10910,3522.8,27.0,Clay loam,Drip,6589.0,55.0,Cardamum,203317,Rabi,0.6039413382218148,False
+2013,Madikeri,51355,3522.8,27.0,Clay loam,Drip,5107.0,56.0,Cardamum,2134,Rabi,0.09944503943140882,False
+2014,Madikeri,160,3729.8,27.2,Clay loam,Drip,5518.0,54.0,Cardamum,45186,Rabi,34.4875,False
+2015,Madikeri,10912,3729.8,27.2,Clay loam,Drip,4912.0,58.0,Cardamum,238542,Rabi,0.4501466275659824,False
+2016,Madikeri,51353,3729.8,27.2,Drained loam,Drip,3830.0,58.0,Cardamum,1516,Rabi,0.07458181605748447,False
+2017,Madikeri,1279,2746.2,27.1,Drained loam,Drip,4.0,59.0,Cardamum,57259,Rabi,0.003127443315089914,False
+2018,Madikeri,13283,2746.2,27.1,Drained loam,Drip,9.0,50.0,Cardamum,234779,Rabi,0.0006775577806218475,False
+2004,Madikeri,52119,2746.2,27.1,Drained loam,Drip,12.0,54.0,Cardamum,1493,Rabi,0.00023024233005238014,False
+2005,Madikeri,725,3360.0,26.8,Drained loam,Drip,2089.0,53.0,Cardamum,64409,Rabi,2.8813793103448275,False
+2006,Madikeri,12885,3360.0,26.8,Drained loam,Drip,2810.0,52.0,Cardamum,249978,Rabi,0.21808304229724484,False
+2007,Madikeri,51179,3360.0,26.8,Drained loam,Drip,841.0,51.0,Cardamum,637,Rabi,0.016432521151253442,False
+2008,Madikeri,468,3605.4,37.0,Drained loam,Drip,3550.0,57.0,Cardamum,43311,Rabi,7.585470085470085,False
+2009,Madikeri,11841,3605.4,37.0,Drained loam,Drip,109.0,57.0,Cardamum,24848,Rabi,0.009205303606114348,False
+2010,Madikeri,50975,2903.1,37.0,Drained loam,Drip,3368.0,60.0,Cardamum,761,Rabi,0.06607160372731731,False
+2013,Chikmangaluru,51179,2903.1,41.0,Drained loam,Basin,29170.0,52.5,Pepper,2134,Rabi,0.5699603352937729,False
+2017,Chikmangaluru,206,3522.8,43.0,Drained loam,Basin,592.0,57.0,Arecanut,200000,Rabi,2.8737864077669903,False
+2018,Chikmangaluru,10922,3522.8,27.0,Drained loam,Basin,864.0,55.0,Arecanut,4847,Rabi,0.07910639077092108,False
+2004,Chikmangaluru,51390,3522.8,27.0,Drained loam,Basin,5373.0,56.0,Arecanut,51239,Rabi,0.10455341506129597,False
+2005,Chikmangaluru,177,3729.8,27.0,Drained loam,Basin,6589.0,54.0,Arecanut,216396,Rabi,37.22598870056497,False
+2006,Chikmangaluru,10723,3729.8,27.0,Drained loam,Basin,5107.0,58.0,Arecanut,2644,Rabi,0.4762659703441201,False
+2007,Chikmangaluru,51709,3729.8,27.0,Drained loam,Basin,5518.0,58.0,Arecanut,44235,Rabi,0.10671256454388985,False
+2008,Chikmangaluru,146,2746.2,27.0,Drained loam,Basin,4912.0,59.0,Arecanut,203317,Rabi,33.64383561643836,False
+2009,Chikmangaluru,10910,2746.2,27.0,Drained loam,Basin,3830.0,50.0,Arecanut,2134,Rabi,0.3510540788267644,False
+2010,Chikmangaluru,51355,2746.2,27.0,Drained loam,Basin,4.0,54.0,Arecanut,45186,Rabi,7.788920260928829e-05,False
+2011,Chikmangaluru,160,3360.0,27.2,Drained loam,Basin,9.0,53.0,Arecanut,238542,Rabi,0.05625,False
+2012,Chikmangaluru,10912,3360.0,27.2,Clay loam,Basin,12.0,52.0,Arecanut,1516,Rabi,0.0010997067448680353,False
+2013,Chikmangaluru,51353,3360.0,27.2,Clay loam,Basin,2089.0,51.0,Arecanut,57259,Rabi,0.04067922029871673,False
+2014,Chikmangaluru,142,3605.4,27.0,Clay loam,Basin,2810.0,57.0,Arecanut,234779,Rabi,19.788732394366196,False
+2015,Chikmangaluru,10505,3605.4,27.0,Clay loam,Basin,841.0,57.0,Arecanut,1493,Rabi,0.0800571156592099,False
+2016,Chikmangaluru,51040,3605.4,27.0,Clay loam,Basin,3550.0,60.0,Arecanut,64409,Rabi,0.06955329153605015,False
+2017,Chikmangaluru,154,3512.4,27.0,Clay loam,Basin,109.0,57.0,Ginger,249978,Rabi,0.7077922077922078,False
+2004,Chikmangaluru,10318,3512.4,27.0,Clay loam,Basin,3368.0,57.0,Ginger,637,Rabi,0.32641984880790853,False
+2004,Chikmangaluru,48083,3512.4,27.0,Clay loam,Basin,3671.0,54.0,Ginger,43311,Rabi,0.07634714972027536,False
+2004,Chikmangaluru,143,3296.0,27.2,Clay loam,Basin,2404.0,54.5,Ginger,24848,Rabi,16.81118881118881,False
+2004,Chikmangaluru,9283,3296.0,27.2,Clay loam,Basin,2805.0,56.6,Ginger,761,Rabi,0.30216524830335023,False
+2004,Chikmangaluru,47200,3296.0,27.2,Clay loam,Basin,2331.0,55.5,Ginger,45608,Rabi,0.04938559322033898,False
+2004,Chikmangaluru,158,3550.0,27.1,Clay loam,Basin,2088.0,58.5,Ginger,234581,Rabi,13.215189873417721,False
+2004,Chikmangaluru,8982,3550.0,27.1,Clay loam,Basin,2628.0,59.5,Ginger,646,Rabi,0.2925851703406814,False
+2004,Chikmangaluru,46990,3550.0,27.1,Clay loam,Basin,1939.0,55.0,Ginger,43562,Rabi,0.0412640987444137,False
+2004,Chikmangaluru,103,3654.0,26.8,Clay loam,Basin,1871.0,53.0,Ginger,200000,Rabi,18.16504854368932,False
+2004,Chikmangaluru,8239,3654.0,26.8,Clay loam,Basin,1868.0,53.5,Ginger,4847,Rabi,0.22672654448355384,False
+2004,Chikmangaluru,44563,3654.0,27.1,Clay loam,Basin,127919.0,52.5,Ginger,51239,Rabi,2.8705203868680296,False
+2004,Chikmangaluru,96,233.0,27.1,Clay loam,Basin,75340.0,56.0,Ginger,216396,Rabi,784.7916666666666,False
+2004,Chikmangaluru,6949,233.0,26.8,Clay loam,Basin,29170.0,57.0,Ginger,2644,Rabi,4.197726291552741,False
+2004,Chikmangaluru,44663,233.0,26.8,Clay loam,Basin,1901.0,57.5,Ginger,44235,Rabi,0.04256319548619663,False
+2004,Chikmangaluru,4012,3105.0,38.0,Clay loam,Basin,6589.0,58.0,Tea,57259,Rabi,1.6423230309072783,False
+2004,Chikmangaluru,4877,236.0,38.0,Clay loam,Spray,5107.0,59.0,Tea,234779,Rabi,1.0471601394299774,False
+2004,Chikmangaluru,4930,236.0,39.0,Clay loam,Spray,5518.0,50.0,Tea,1493,Rabi,1.1192697768762678,False
+2004,Hassan,30,2746.2,27.0,Clay loam,Spray,187.0,59.5,Paddy,2644,Rabi,6.233333333333333,False
+2004,Hassan,15,3360.0,27.0,Clay loam,Spray,103.0,53.0,Paddy,203317,Rabi,6.866666666666666,False
+2004,Kodagu,2050,3654.0,27.2,Red ,Drip,27170.0,56.0,Coconut,2644,Rabi,13.253658536585366,False
+2004,Kodagu,1799,233.0,27.1,Red ,Drip,23456.0,57.0,Coconut,2134,Rabi,13.038354641467482,False
+2004,Kasaragodu,201,3105.0,38.0,Red ,Drip,124492.0,50.0,Ginger,216396,Rabi,619.363184079602,False
+2004,Kasaragodu,206,3105.0,38.0,Red ,Drip,792.0,54.0,Ginger,2644,Rabi,3.8446601941747574,False
+2004,Kasaragodu,243,236.0,38.0,Red ,Drip,34153.0,53.0,Ginger,44235,Rabi,140.54732510288065,False
+2004,Kasaragodu,123,236.0,39.0,Red ,Basin,2570.0,59.5,Ginger,203317,Rabi,20.89430894308943,False
+2004,Kasaragodu,82,321.0,39.0,Red ,Basin,27170.0,55.0,Ginger,2134,Rabi,331.3414634146341,False
+2004,Kasaragodu,74,3654.0,39.0,Red ,Basin,114744.0,53.0,Ginger,45186,Rabi,1550.5945945945946,False
+2004,Kasaragodu,18,323.0,41.0,Red ,Basin,1402.0,53.5,Ginger,238542,Rabi,77.88888888888889,False
+2004,Kasaragodu,37,324.0,42.0,Red ,Basin,23456.0,52.5,Ginger,1516,Rabi,633.9459459459459,False
+2004,Kasaragodu,35,3105.0,42.0,Red ,Basin,107809.0,56.0,Ginger,57259,Rabi,3080.2571428571428,False
+2004,Kasaragodu,5974,326.0,42.0,Red ,Basin,1132.0,57.0,Ginger,234779,Rabi,0.18948778038165384,False
+2004,Kasaragodu,6631,327.0,43.0,Red ,Basin,23960.0,57.5,Ginger,1493,Rabi,3.6133313225757804,False
+2004,Kasaragodu,6705,328.0,43.0,Red ,Basin,126487.0,57.0,Ginger,64409,Rabi,18.864578672632366,False
+2004,Kasaragodu,5876,2903.1,128.0,Red ,Basin,804.0,55.0,Ginger,249978,Rabi,0.13682777399591559,False
+2004,Kasaragodu,326,2903.1,129.0,Red ,Basin,30362.0,56.0,Ginger,637,Rabi,93.13496932515338,False
+2004,Kasaragodu,6470,2903.1,130.0,Red ,Basin,124492.0,54.0,Ginger,43311,Rabi,19.24142194744977,False
+2004,Raichur,6186,2996.6,132.0,Red ,Drip,34153.0,57.5,Coconut,4847,Rabi,5.521015195602974,False
+2004,Raichur,3529,3729.8,138.0,Alluvial,Drip,24184.0,58.0,Coconut,2134,Rabi,6.852932842164919,False
+2016,Raichur,29,3360.0,143.0,Alluvial,Drip,336.0,52.0,Coconut,234779,Rabi,11.586206896551724,False
+2007,Raichur,68,3512.4,149.0,Alluvial,Drip,382.0,57.0,Coconut,24848,Rabi,5.617647058823529,False
+2017,Gulbarga,10318,2903.1,174.0,Laterite,Drip,57642.0,51.0,Coconut,761,Rabi,5.586547780577631,False
+2005,Gulbarga,9283,2996.6,177.0,Laterite,Basin,109506.0,60.0,Coconut,646,Rabi,11.79640202520737,False
+2011,Gulbarga,5127,3360.0,198.0,Laterite,Basin,58637.0,58.0,Coconut,216396,Rabi,11.43690267212795,False
+2012,Gulbarga,5174,3605.4,199.0,Black,Basin,59777.0,59.0,Coconut,2644,Rabi,11.55334364128334,False
+2013,Gulbarga,5294,3605.4,200.0,Black,Basin,60528.0,50.0,Coconut,44235,Rabi,11.4333207404609,False
+2014,Gulbarga,5474,3605.4,201.0,Black,Basin,61126.0,54.0,Coconut,203317,Rabi,11.16660577274388,False
+2016,Gulbarga,7028,3512.4,203.0,Black,Basin,63504.0,52.0,Coconut,45186,Rabi,9.03585657370518,False
+2017,Gulbarga,7403,3512.4,204.0,Black,Basin,63931.0,51.0,Coconut,238542,Rabi,8.635823314872349,False
+2018,Gulbarga,7501,3296.0,205.0,Sandy loam,Basin,73730.0,57.0,Coconut,1516,Rabi,9.829356085855219,False
+2007,Gulbarga,15,236.0,27.0,Sandy loam,Spray,187.0,55.0,Coconut,44235,Rabi,12.466666666666667,False
+2018,Madikeri,2074,3654.0,43.0,Red ,Drip,2404.0,57.0,Cocoa,57259,Rabi,1.159112825458052,False
+2004,Madikeri,2127,3654.0,27.0,Red ,Drip,2805.0,57.0,Cocoa,234779,Rabi,1.318758815232722,False
+2005,Madikeri,2090,233.0,27.0,Red ,Drip,2331.0,60.0,Cocoa,1493,Rabi,1.115311004784689,False
+2006,Madikeri,2059,233.0,27.0,Red ,Drip,2088.0,57.0,Coffee,64409,Rabi,1.0140845070422535,False
+2007,Madikeri,2050,233.0,27.0,Red ,Drip,2628.0,57.0,Coffee,249978,Rabi,1.2819512195121952,False
+2008,Madikeri,1865,234.0,27.0,Red ,Drip,1939.0,54.0,Coffee,637,Rabi,1.0396782841823056,False
+2009,Madikeri,1841,234.0,27.0,Red ,Drip,1871.0,54.5,Coffee,43311,Rabi,1.0162954915806628,False
+2010,Madikeri,1799,234.0,27.2,Red ,Drip,1868.0,56.6,Coffee,24848,Rabi,1.038354641467482,False
+2006,Madikeri,82,2996.6,27.2,Black,Drip,5107.0,57.0,Cardamum,44235,Rabi,62.28048780487805,False
+2007,Hassan,74,3522.8,27.1,Black,Drip,5518.0,55.0,Cardamum,203317,Rabi,74.56756756756756,False
+2008,Hassan,18,3522.8,27.1,Black,Drip,4912.0,56.0,Cardamum,2134,Rabi,272.8888888888889,False
+2009,Hassan,37,3522.8,27.1,Black,Drip,3830.0,54.0,Cardamum,45186,Rabi,103.51351351351352,False
+2010,Hassan,35,2903.1,26.8,Black,Drip,4.0,58.0,Cardamum,238542,Rabi,0.11428571428571428,False
+2011,Hassan,5974,2903.1,26.8,Black,Drip,9.0,58.0,Cardamum,1516,Rabi,0.0015065282892534316,False
+2012,Hassan,6631,2903.1,26.8,Black,Drip,12.0,59.0,Cardamum,57259,Rabi,0.0018096817976172522,False
+2013,Hassan,6705,2996.6,37.0,Black,Drip,2089.0,50.0,Cardamum,234779,Rabi,0.31155853840417597,False
+2014,Hassan,5876,2996.6,37.0,Black,Drip,2810.0,54.0,Cardamum,1493,Rabi,0.478216473791695,False
+2015,Hassan,326,2996.6,37.0,Black,Drip,841.0,53.0,Cardamum,64409,Rabi,2.579754601226994,False
+2016,Hassan,6470,3522.8,38.0,Black,Drip,3550.0,52.0,Cardamum,249978,Rabi,0.5486862442040186,False
+2017,Hassan,6709,3522.8,38.0,Black,Drip,109.0,51.0,Cardamum,637,Rabi,0.016246832612908033,False
+2018,Hassan,6186,3522.8,38.0,Black,Drip,3368.0,57.0,Cardamum,43311,Rabi,0.5444552214678305,False
+2004,Hassan,6503,3729.8,39.0,Black,Drip,3671.0,57.0,Cardamum,24848,Rabi,0.5645086882977087,False
+2005,Hassan,5220,3729.8,39.0,Black,Drip,2404.0,60.0,Cardamum,761,Rabi,0.46053639846743294,False
+2006,Hassan,4677,3729.8,39.0,Black,Drip,2805.0,57.0,Pepper,45608,Rabi,0.5997434252726106,False
+2008,Hassan,3739,2746.2,40.0,Black,Drip,2088.0,54.0,Pepper,646,Rabi,0.5584380850494784,False
+2009,Hassan,3529,2746.2,27.0,Black,Drip,2628.0,54.5,Pepper,43562,Rabi,0.7446868801360159,False
+2010,Hassan,3649,3360.0,27.0,Black,Drip,1939.0,56.6,Pepper,200000,Rabi,0.5313784598520143,False
+2005,Hassan,206,3522.8,27.0,Gravelly sand,Basin,5373.0,57.0,Arecanut,200000,Rabi,26.08252427184466,False
+2006,Hassan,10922,3522.8,27.0,Gravelly sand,Basin,6589.0,55.0,Arecanut,4847,Rabi,0.6032777879509248,False
+2007,Hassan,51390,3522.8,27.0,Gravelly sand,Basin,5107.0,56.0,Arecanut,51239,Rabi,0.09937731076084841,False
+2008,Hassan,177,2746.2,27.2,Gravelly sand,Basin,5518.0,54.0,Arecanut,216396,Rabi,31.175141242937855,False
+2009,Hassan,10723,2746.2,27.2,Gravelly sand,Basin,4912.0,58.0,Arecanut,2644,Rabi,0.45808076098106876,False
+2010,Hassan,51709,3360.0,27.2,Gravelly sand,Basin,3830.0,58.0,Arecanut,44235,Rabi,0.07406834400201126,False
+2011,Hassan,146,3360.0,27.1,Gravelly sand,Basin,4.0,59.0,Arecanut,203317,Rabi,0.0273972602739726,False
+2012,Hassan,10910,3360.0,27.1,Gravelly sand,Basin,9.0,50.0,Arecanut,2134,Rabi,0.0008249312557286893,False
+2013,Hassan,51355,3605.4,27.1,Gravelly sand,Basin,12.0,54.0,Arecanut,45186,Rabi,0.00023366760782786487,False
+2014,Hassan,160,3605.4,26.8,Gravelly sand,Basin,2089.0,53.0,Arecanut,238542,Rabi,13.05625,False
+2015,Hassan,10912,3605.4,26.8,Gravelly sand,Basin,2810.0,52.0,Arecanut,1516,Rabi,0.25751466275659823,False
+2016,Hassan,51353,3512.4,26.8,Gravelly sand,Basin,841.0,51.0,Arecanut,57259,Rabi,0.016376842638210036,False
+2017,Hassan,1279,3512.4,37.0,Gravelly sand,Basin,3550.0,57.0,Arecanut,234779,Rabi,2.7756059421422985,False
+2018,Hassan,13283,3512.4,37.0,Gravelly sand,Basin,109.0,57.0,Arecanut,1493,Rabi,0.008205977565309042,False
+2012,Hassan,52119,3296.0,37.0,Gravelly sand,Basin,3368.0,60.0,Arecanut,64409,Rabi,0.06462134730136802,False
+2013,Hassan,725,3296.0,38.0,Gravelly sand,Basin,3671.0,57.0,Ginger,249978,Rabi,5.063448275862069,False
+2014,Hassan,12885,3296.0,38.0,Gravelly sand,Basin,2404.0,57.0,Ginger,637,Rabi,0.18657353511835467,False
+2015,Hassan,51179,3550.0,38.0,Gravelly sand,Basin,2805.0,54.0,Ginger,43311,Rabi,0.05480763594443033,False
+2016,Hassan,468,3550.0,39.0,Gravelly sand,Basin,2331.0,54.5,Ginger,24848,Rabi,4.980769230769231,False
+2017,Hassan,11841,3550.0,39.0,Gravelly sand,Basin,2088.0,56.6,Ginger,761,Rabi,0.1763364580694198,False
+2018,Hassan,50975,3654.0,39.0,Gravelly sand,Basin,2628.0,55.5,Ginger,45608,Rabi,0.05155468366846493,False
+2019,Hassan,206,3654.0,40.0,Gravelly sand,Basin,1939.0,58.5,Ginger,234581,Rabi,9.412621359223301,False
+2004,Hassan,10922,3654.0,40.0,Gravelly sand,Basin,1871.0,59.5,Ginger,646,Rabi,0.1713056216810108,False
+2005,Hassan,51390,233.0,40.0,Gravelly sand,Basin,1868.0,55.0,Ginger,43562,Rabi,0.03634948433547383,False
+2006,Hassan,177,233.0,41.0,Gravelly sand,Basin,127919.0,53.0,Ginger,200000,Rabi,722.7062146892655,False
+2007,Hassan,10723,233.0,41.0,Gravelly sand,Basin,75340.0,53.5,Ginger,4847,Rabi,7.02601883801175,False
+2008,Hassan,51709,234.0,41.0,Gravelly sand,Basin,29170.0,52.5,Ginger,51239,Rabi,0.5641184319944303,False
+2009,Hassan,146,234.0,42.0,Gravelly sand,Basin,1901.0,56.0,Ginger,216396,Rabi,13.020547945205479,False
+2010,Hassan,10910,234.0,42.0,Gravelly sand,Basin,972.0,57.0,Ginger,2644,Rabi,0.08909257561869845,False
+2011,Hassan,51355,3105.0,42.0,Gravelly sand,Basin,874.0,57.5,Ginger,44235,Rabi,0.01701879077012949,False
+2004,Hassan,177,2903.1,27.0,Loam,Spray,806.0,57.0,Paddy,234581,Rabi,4.553672316384181,False
+2004,Hassan,142,3296.0,41.0,Well drained,Spray,393.0,53.0,Groundnut,1516,Rabi,2.767605633802817,False
+2019,Hassan,96,3105.0,27.0,Medium textured clay,Drip,187.0,53.0,Blackgram,4847,Rabi,1.9479166666666667,False
+2018,Hassan,6441,2996.6,27.2,Medium textured clay,Drip,3290.0,53.5,Cashew,45186,Rabi,0.5107902499611862,False
+2004,Hassan,4012,2996.6,27.2,Laterite,Drip,3138.0,52.5,Cashew,238542,Rabi,0.7821535393818544,False
+2005,Hassan,4877,3522.8,27.1,Laterite,Drip,3423.0,56.0,Cashew,1516,Rabi,0.7018659011687512,False
+2006,Hassan,4930,3522.8,27.1,Laterite,Drip,3899.0,57.0,Cashew,57259,Rabi,0.7908722109533468,False
+2007,Hassan,4954,3522.8,27.1,Laterite,Drip,4015.0,57.5,Cashew,234779,Rabi,0.8104561970125151,False
+2008,Hassan,5019,2903.1,26.8,Laterite,Drip,4279.0,57.0,Cashew,1493,Rabi,0.8525602709703128,False
+2009,Hassan,5127,2903.1,26.8,Laterite,Drip,4167.0,55.0,Cashew,64409,Rabi,0.81275599765945,False
+2010,Mangalore,5174,2903.1,26.8,Laterite,Drip,4479.0,56.0,Cashew,249978,Rabi,0.8656745264785466,False
+2011,Mangalore,5294,2996.6,37.0,Laterite,Drip,3699.0,54.0,Cashew,637,Rabi,0.6987155270117114,False
+2012,Mangalore,5474,2996.6,37.0,Laterite,Drip,4904.0,58.0,Cashew,43311,Rabi,0.8958713920350749,False
+2012,Kodagu,11,2996.6,130.0,Alluvial,Drip,34153.0,50.0,Ginger,216396,Rabi,3104.818181818182,False
+2013,Kodagu,4,3522.8,131.0,Alluvial,Drip,2570.0,54.0,Ginger,2644,Rabi,642.5,False
+2014,Kodagu,15,3522.8,132.0,Alluvial,Drip,27170.0,53.0,Ginger,44235,Rabi,1811.3333333333333,False
+2015,Kodagu,8,3522.8,133.0,Alluvial,Basin,114744.0,59.5,Ginger,203317,Rabi,14343.0,False
+2016,Kodagu,29,3729.8,134.0,Alluvial,Basin,1402.0,55.0,Ginger,2134,Rabi,48.3448275862069,False
+2017,Kodagu,1,3729.8,135.0,Alluvial,Basin,23456.0,53.0,Ginger,45186,Rabi,23456.0,False
+2018,Kodagu,13736,3729.8,136.0,Alluvial,Basin,107809.0,53.5,Ginger,238542,Rabi,7.848645894001165,False
+2015,Kodagu,14003,2746.2,137.0,Alluvial,Basin,1132.0,52.5,Ginger,1516,Rabi,0.08083982003856316,False
+2016,Kodagu,14179,2746.2,138.0,Alluvial,Basin,23960.0,56.0,Ginger,57259,Rabi,1.6898229776429932,False
+2017,Kodagu,14319,2746.2,139.0,Alluvial,Basin,126487.0,57.0,Ginger,234779,Rabi,8.833507926531182,False
+2018,Kodagu,14464,3360.0,140.0,Alluvial,Basin,804.0,57.5,Ginger,1493,Rabi,0.05558628318584071,False
+2013,Kodagu,14876,3360.0,141.0,Alluvial,Basin,30362.0,57.0,Ginger,64409,Rabi,2.041005646679215,False
+2014,Kodagu,14976,3360.0,142.0,Alluvial,Basin,124492.0,55.0,Ginger,249978,Rabi,8.312767094017094,False
+2015,Kodagu,15009,3605.4,143.0,Alluvial,Basin,792.0,56.0,Ginger,637,Rabi,0.05276833899660204,False
+2016,Kodagu,15114,3605.4,144.0,Alluvial,Basin,34153.0,54.0,Ginger,43311,Rabi,2.2596929998676725,False
+2017,Kodagu,16224,3605.4,27.0,Alluvial,Drip,132551.0,57.0,Coconut,200000,Rabi,8.170056706114398,False
+2005,Kodagu,17587,3512.4,27.0,Alluvial,Drip,131763.0,55.0,Coconut,216396,Rabi,7.492068004776256,False
+2010,Kodagu,1591,3654.0,27.2,Alluvial,Drip,23099.0,59.0,Coconut,45186,Rabi,14.518541797611565,False
+2017,Mysuru,2188,2903.1,26.8,Sandy loam,Drip,15362.0,58.5,Coconut,43562,Rabi,7.021023765996343,False
+2005,Mysuru,2034,2996.6,37.0,Sandy loam,Drip,17231.0,53.0,Coconut,51239,Rabi,8.471484759095379,False
+2008,Mysuru,2127,3550.0,38.0,Sandy loam,Drip,17690.0,56.0,Coconut,44235,Rabi,8.316878232251998,False
+2015,Mysuru,1468,233.0,41.0,Sandy,Drip,9230.0,58.0,Coconut,234779,Rabi,6.287465940054496,False
+2004,Gulbarga,29,3605.4,27.0,Sandy,Drip,4912.0,57.0,Cardamum,44235,Rabi,169.3793103448276,False
+2004,Gulbarga,1,3512.4,27.0,Sandy,Drip,3830.0,55.0,Cardamum,203317,Rabi,3830.0,False
+2004,Gulbarga,13736,3512.4,27.2,Sandy,Drip,4.0,56.0,Cardamum,2134,Rabi,0.00029120559114735004,False
+2004,Gulbarga,14003,3512.4,27.2,Sandy,Drip,9.0,54.0,Cardamum,45186,Rabi,0.0006427194172677283,False
+2004,Gulbarga,14179,3296.0,27.2,Alluvial,Drip,12.0,58.0,Cardamum,238542,Rabi,0.0008463220255307144,False
+2004,Gulbarga,14319,3296.0,27.0,Alluvial,Drip,2089.0,58.0,Cardamum,1516,Rabi,0.14589007612263427,False
+2004,Gulbarga,14464,3296.0,27.0,Alluvial,Drip,2810.0,59.0,Cardamum,57259,Rabi,0.1942754424778761,False
+2004,Gulbarga,14876,3550.0,27.0,Alluvial,Drip,841.0,50.0,Cardamum,234779,Rabi,0.05653401452003227,False
+2004,Gulbarga,14976,3550.0,27.0,Alluvial,Drip,3550.0,54.0,Cardamum,1493,Rabi,0.23704594017094016,False
+2004,Gulbarga,15009,3550.0,27.0,Alluvial,Drip,109.0,53.0,Cardamum,64409,Rabi,0.0072623092810980075,False
+2004,Madikeri,15114,3654.0,27.0,Alluvial,Drip,3368.0,52.0,Cardamum,249978,Rabi,0.2228397512240307,False
+2004,Madikeri,16224,3654.0,27.2,Alluvial,Drip,3671.0,51.0,Cardamum,637,Rabi,0.2262697238658777,False
+2004,Madikeri,17095,3654.0,27.2,Alluvial,Drip,2404.0,57.0,Cardamum,43311,Rabi,0.14062591400994442,False
+2004,Madikeri,17512,233.0,27.2,Alluvial,Drip,2805.0,57.0,Cardamum,24848,Rabi,0.16017587939698494,False
+2004,Madikeri,17587,233.0,27.1,Alluvial,Drip,2331.0,60.0,Cardamum,761,Rabi,0.13254108148063912,False
+2004,Madikeri,3147,234.0,26.8,Alluvial,Drip,1939.0,54.0,Pepper,646,Rabi,0.6161423578010804,False
+2004,Madikeri,2578,234.0,26.8,Alluvial,Drip,1871.0,54.5,Pepper,43562,Rabi,0.7257564003103181,False
+2004,Madikeri,76,3522.8,40.0,Sandy loam,Basin,5107.0,57.0,Arecanut,200000,Rabi,67.19736842105263,False
+2004,Madikeri,53,3522.8,40.0,Sandy loam,Basin,5518.0,55.0,Arecanut,4847,Rabi,104.11320754716981,False
+2004,Madikeri,2688,3522.8,41.0,Sandy loam,Basin,4912.0,56.0,Arecanut,51239,Rabi,1.8273809523809523,False
+2004,Madikeri,2311,3729.8,41.0,Sandy loam,Basin,3830.0,54.0,Arecanut,216396,Rabi,1.6572912159238424,False
+2004,Madikeri,2188,3729.8,41.0,Sandy loam,Basin,4.0,58.0,Arecanut,2644,Rabi,0.0018281535648994515,False
+2004,Madikeri,1998,3729.8,42.0,Sandy loam,Basin,9.0,58.0,Arecanut,44235,Rabi,0.0045045045045045045,False
+2004,Madikeri,2006,2746.2,42.0,Sandy loam,Basin,12.0,59.0,Arecanut,203317,Rabi,0.005982053838484547,False
+2004,Madikeri,2034,2746.2,42.0,Sandy loam,Basin,2089.0,50.0,Arecanut,2134,Rabi,1.0270403146509341,False
+2004,Madikeri,2035,2746.2,43.0,Sandy loam,Basin,2810.0,54.0,Arecanut,45186,Rabi,1.3808353808353808,False
+2004,Madikeri,2074,3360.0,43.0,Sandy loam,Basin,841.0,53.0,Arecanut,238542,Rabi,0.40549662487946,False
+2004,Chikmangaluru,2127,3360.0,27.0,Sandy loam,Basin,3550.0,52.0,Arecanut,1516,Rabi,1.6690173953925718,False
+2004,Chikmangaluru,2090,3360.0,27.0,Sandy loam,Basin,109.0,51.0,Arecanut,57259,Rabi,0.05215311004784689,False
+2004,Chikmangaluru,2059,3605.4,27.0,Sandy loam,Basin,3368.0,57.0,Arecanut,234779,Rabi,1.6357455075279261,False
+2004,Chikmangaluru,2050,3605.4,27.0,Laterite,Basin,3671.0,57.0,Arecanut,1493,Rabi,1.7907317073170732,False
+2004,Chikmangaluru,1865,3605.4,27.0,Laterite,Basin,2404.0,60.0,Arecanut,64409,Rabi,1.2890080428954425,False
+2004,Chikmangaluru,1841,3512.4,27.0,Laterite,Basin,2805.0,57.0,Ginger,249978,Rabi,1.523628462791961,False
+2004,Chikmangaluru,1799,3512.4,27.2,Laterite,Basin,2331.0,57.0,Ginger,637,Rabi,1.2957198443579767,False
+2004,Chikmangaluru,1468,3512.4,27.2,Laterite,Basin,2088.0,54.0,Ginger,43311,Rabi,1.422343324250681,False
+2004,Chikmangaluru,568,3296.0,27.2,Laterite,Basin,2628.0,54.5,Ginger,24848,Rabi,4.626760563380282,False
+2004,Chikmangaluru,407,3296.0,27.0,Laterite,Basin,1939.0,56.6,Ginger,761,Rabi,4.764127764127764,False
+2004,Chikmangaluru,177,3296.0,27.0,Laterite,Basin,1871.0,55.5,Ginger,45608,Rabi,10.570621468926554,False
+2004,Chikmangaluru,51,3550.0,27.0,Laterite,Basin,1868.0,58.5,Ginger,234581,Rabi,36.627450980392155,False
+2004,Chikmangaluru,173,3550.0,27.0,Laterite,Basin,127919.0,59.5,Ginger,646,Rabi,739.4161849710982,False
+2004,Chikmangaluru,201,3550.0,27.0,Laterite,Basin,75340.0,55.0,Ginger,43562,Rabi,374.8258706467662,False
+2004,Chikmangaluru,206,3654.0,27.0,Laterite,Basin,29170.0,53.0,Ginger,200000,Rabi,141.60194174757282,False
+2004,Chikmangaluru,243,3654.0,27.2,Laterite,Basin,1901.0,53.5,Ginger,4847,Rabi,7.823045267489712,False
+2004,Chikmangaluru,123,3654.0,27.2,Laterite,Basin,972.0,52.5,Ginger,51239,Rabi,7.902439024390244,False
+2004,Chikmangaluru,82,233.0,27.2,Laterite,Basin,874.0,56.0,Ginger,216396,Rabi,10.658536585365853,False
+2004,Chikmangaluru,74,233.0,27.1,Laterite,Basin,592.0,57.0,Ginger,2644,Rabi,8.0,False
+2004,Chikmangaluru,18,233.0,27.1,Laterite,Basin,864.0,57.5,Ginger,44235,Rabi,48.0,False
+2017,Chikmangaluru,468,3296.0,27.0,Medium textured ,Spray,3290.0,53.0,Paddy,203317,Zaid,7.02991452991453,False
+2009,Hassan,10910,2996.6,27.2,Alluvial,Drip,27170.0,50.0,Ginger,216396,Zaid,2.4903758020164988,False
+2010,Hassan,51355,2996.6,27.2,Alluvial,Drip,114744.0,54.0,Ginger,2644,Zaid,2.234329666050044,False
+2011,Hassan,160,3522.8,27.0,Alluvial,Drip,1402.0,53.0,Ginger,44235,Zaid,8.7625,False
+2012,Hassan,10912,3522.8,27.0,Sandy loam,Basin,23456.0,59.5,Ginger,203317,Zaid,2.1495601173020527,False
+2013,Hassan,51353,3522.8,27.0,Sandy loam,Basin,107809.0,55.0,Ginger,2134,Zaid,2.099371020193562,False
+2014,Hassan,142,3729.8,27.0,Sandy loam,Basin,1132.0,53.0,Ginger,45186,Zaid,7.971830985915493,False
+2015,Hassan,10505,3729.8,27.0,Sandy loam,Basin,23960.0,53.5,Ginger,238542,Zaid,2.2808186577820084,False
+2016,Hassan,51040,3729.8,27.0,Sandy loam,Basin,126487.0,52.5,Ginger,1516,Zaid,2.4781935736677116,False
+2017,Hassan,154,2746.2,27.2,Sandy loam,Basin,804.0,56.0,Ginger,57259,Zaid,5.220779220779221,False
+2018,Hassan,10318,2746.2,27.2,Sandy loam,Basin,30362.0,57.0,Ginger,234779,Zaid,2.942624539639465,False
+2004,Hassan,48083,2746.2,27.2,Sandy loam,Basin,124492.0,57.5,Ginger,1493,Zaid,2.5891063369590084,False
+2005,Hassan,143,3360.0,27.1,Sandy loam,Basin,792.0,57.0,Ginger,64409,Zaid,5.538461538461538,False
+2006,Hassan,9283,3360.0,27.1,Sandy loam,Basin,34153.0,55.0,Ginger,249978,Zaid,3.679090811160185,False
+2007,Hassan,47200,3360.0,27.1,Sandy loam,Basin,132551.0,56.0,Ginger,637,Zaid,2.808283898305085,False
+2008,Hassan,158,3605.4,26.8,Sandy loam,Basin,338.0,54.0,Ginger,43311,Zaid,2.1392405063291138,False
+2009,Hassan,8,2746.2,26.8,Sandy,Basin,95.0,57.0,Coconut,234581,Zaid,11.875,False
+2004,Mangalore,568,3522.8,41.0,Clay,Spray,4247.0,56.0,Coconut,203317,Zaid,7.477112676056338,False
+2005,Mangalore,407,3729.8,41.0,Clay,Spray,3290.0,54.0,Coconut,2134,Zaid,8.083538083538084,False
+2010,Mangalore,206,234.0,26.8,Loam,Spray,2089.0,55.0,Coconut,200000,Zaid,10.140776699029127,False
+2015,Kodagu,44663,2746.2,27.2,Sandy loam,Drip,4.0,57.0,Cardamum,44235,Zaid,8.955959071267044e-05,False
+2016,Kodagu,110,2746.2,27.0,Sandy loam,Drip,9.0,55.0,Cardamum,203317,Zaid,0.08181818181818182,False
+2017,Kodagu,6824,3360.0,27.0,Sandy loam,Drip,12.0,56.0,Cardamum,2134,Zaid,0.0017584994138335288,False
+2018,Kodagu,43013,3360.0,27.0,Sandy loam,Drip,2089.0,54.0,Cardamum,45186,Zaid,0.048566712389277664,False
+2019,Kodagu,95,3360.0,27.0,Sandy loam,Drip,2810.0,58.0,Cardamum,238542,Zaid,29.57894736842105,False
+2004,Kodagu,6441,3605.4,27.0,Sandy loam,Drip,841.0,58.0,Cardamum,1516,Zaid,0.13056978730010868,False
+2013,Kodagu,4012,3605.4,27.0,Sandy loam,Drip,3550.0,59.0,Cardamum,57259,Zaid,0.8848454636091725,False
+2014,Kodagu,4877,3605.4,27.2,Sandy loam,Drip,109.0,50.0,Cardamum,234779,Zaid,0.022349805208119744,False
+2015,Mysuru,4930,3512.4,27.2,Sandy loam,Drip,3368.0,54.0,Cardamum,1493,Zaid,0.6831643002028398,False
+2016,Mysuru,4954,3512.4,27.2,Sandy loam,Drip,3671.0,53.0,Cardamum,64409,Zaid,0.7410173597093258,False
+2017,Mysuru,5019,3512.4,27.1,Sandy loam,Drip,2404.0,52.0,Cardamum,249978,Zaid,0.4789798764694162,False
+2018,Mysuru,5127,3296.0,27.1,Sandy loam,Drip,2805.0,51.0,Cardamum,637,Zaid,0.5471035693387947,False
+2004,Mysuru,5174,3296.0,27.1,Sandy loam,Drip,2331.0,57.0,Cardamum,43311,Zaid,0.45052183996907613,False
+2005,Mysuru,5294,3296.0,26.8,Sandy loam,Drip,2088.0,57.0,Cardamum,24848,Zaid,0.3944087646392142,False
+2006,Mysuru,5474,3550.0,26.8,Sandy loam,Drip,2628.0,60.0,Cardamum,761,Zaid,0.48008768724881257,False
+2016,Kasaragodu,3,236.0,41.0,Alluvial,Basin,4912.0,57.0,Arecanut,200000,Zaid,1637.3333333333333,False
+2017,Kasaragodu,17,2903.1,42.0,Alluvial,Basin,3830.0,55.0,Arecanut,4847,Zaid,225.2941176470588,False
+2018,Kasaragodu,3,2903.1,42.0,Alluvial,Basin,4.0,56.0,Arecanut,51239,Zaid,1.3333333333333333,False
+2004,Kasaragodu,9,2903.1,42.0,Alluvial,Basin,9.0,54.0,Arecanut,216396,Zaid,1.0,False
+2005,Kasaragodu,21,2996.6,43.0,Alluvial,Basin,12.0,58.0,Arecanut,2644,Zaid,0.5714285714285714,False
+2006,Kasaragodu,11,2996.6,43.0,Alluvial,Basin,2089.0,58.0,Arecanut,44235,Zaid,189.9090909090909,False
+2007,Kasaragodu,4,2996.6,128.0,Alluvial,Basin,2810.0,59.0,Arecanut,203317,Zaid,702.5,False
+2008,Kasaragodu,15,3522.8,129.0,Alluvial,Basin,841.0,50.0,Arecanut,2134,Zaid,56.06666666666667,False
+2009,Kasaragodu,8,3522.8,130.0,Alluvial,Basin,3550.0,54.0,Arecanut,45186,Zaid,443.75,False
+2010,Kasaragodu,29,3522.8,131.0,Alluvial,Basin,109.0,53.0,Arecanut,238542,Zaid,3.7586206896551726,False
+2011,Kasaragodu,1,2903.1,132.0,Alluvial,Basin,3368.0,52.0,Arecanut,1516,Zaid,3368.0,False
+2012,Kasaragodu,13736,2903.1,133.0,Alluvial,Basin,3671.0,51.0,Arecanut,57259,Zaid,0.26725393127548047,False
+2013,Kasaragodu,14003,2903.1,134.0,Alluvial,Basin,2404.0,57.0,Arecanut,234779,Zaid,0.17167749767906876,False
+2014,Kasaragodu,14179,2996.6,135.0,Alluvial,Basin,2805.0,57.0,Arecanut,1493,Zaid,0.1978277734678045,False
+2015,Kasaragodu,14319,2996.6,136.0,Alluvial,Basin,2331.0,60.0,Arecanut,64409,Zaid,0.16279069767441862,False
+2016,Kasaragodu,14464,2996.6,137.0,Alluvial,Basin,2088.0,57.0,Ginger,249978,Zaid,0.144358407079646,False
+2017,Kasaragodu,14876,3522.8,138.0,Alluvial,Basin,2628.0,57.0,Ginger,637,Zaid,0.17666039257865018,False
+2018,Kasaragodu,14976,3522.8,139.0,Black,Basin,1939.0,54.0,Ginger,43311,Zaid,0.1294738247863248,False
+2015,Kasaragodu,15009,3522.8,140.0,Black,Basin,1871.0,54.5,Ginger,24848,Zaid,0.1246585382104071,False
+2016,Kasaragodu,15114,3729.8,141.0,Black,Basin,1868.0,56.6,Ginger,761,Zaid,0.12359401879052534,False
+2017,Kasaragodu,16224,3729.8,142.0,Black,Basin,127919.0,55.5,Ginger,45608,Zaid,7.884553747534516,False
+2018,Kasaragodu,17095,3729.8,143.0,Black,Basin,75340.0,58.5,Ginger,234581,Zaid,4.407136589646095,False
+2013,Kasaragodu,17512,2746.2,144.0,Black,Basin,29170.0,59.5,Ginger,646,Zaid,1.6657149383280037,False
+2014,Kasaragodu,17587,2746.2,145.0,Black,Basin,1901.0,55.0,Ginger,43562,Zaid,0.10809120373002787,False
+2015,Kasaragodu,17771,2746.2,146.0,Black,Basin,972.0,53.0,Ginger,200000,Zaid,0.05469585279387767,False
+2016,Kasaragodu,17825,3360.0,147.0,Black,Basin,874.0,53.5,Ginger,4847,Zaid,0.04903225806451613,False
+2017,Kasaragodu,3147,3360.0,148.0,Black,Basin,592.0,52.5,Ginger,51239,Zaid,0.18811566571337782,False
+2018,Kasaragodu,2578,3360.0,149.0,Black,Basin,864.0,56.0,Ginger,216396,Zaid,0.3351435221101629,False
+2004,Kasaragodu,1591,3605.4,150.0,Black,Basin,5373.0,57.0,Ginger,2644,Zaid,3.3771213073538653,False
+2005,Raichur,1298,3605.4,151.0,Black,Basin,6589.0,57.5,Ginger,44235,Zaid,5.076271186440678,False
+2010,Bangalore,568,3360.0,179.0,,Spray,4279.0,56.0,Paddy,238542,Zaid,7.533450704225352,False
+2017,Bangalore,82,3296.0,188.0,,Spray,167.0,59.0,Groundnut,2134,Zaid,2.0365853658536586,False
+2017,Bangalore,18,3550.0,190.0,,Spray,52.0,54.0,Groundnut,238542,Zaid,2.888888888888889,False
+2011,Davangere,158,3512.4,27.2,,Drip,1402.0,55.0,Coconut,200000,Rabi,8.873417721518987,False
+2014,Davangere,103,3296.0,27.0,,Drip,1132.0,52.5,Coconut,216396,Rabi,10.990291262135923,False
+2017,Davangere,96,3550.0,27.0,,Drip,804.0,57.5,Coconut,203317,Rabi,8.375,False

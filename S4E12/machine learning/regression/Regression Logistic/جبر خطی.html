@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>برنامه‌ریزی یادگیری جبر خطی</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 20px;
+            direction: rtl;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: right;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #e8f4f8;
+        }
+        .month-header {
+            background-color: #2c3e50;
+            color: white;
+            font-size: 1.2em;
+            text-align: center;
+        }
+        .resources {
+            font-size: 0.9em;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>برنامه‌ریزی ۴ ماهه برای یادگیری جبر خطی (از پایه تا پیشرفته)</h1>
+    <table>
+        <tr>
+            <th>ماه</th>
+            <th>هفته</th>
+            <th>موضوعات</th>
+            <th>فعالیت‌ها</th>
+            <th>زمان‌بندی</th>
+            <th>منابع</th>
+        </tr>
+        <!-- ماه اول -->
+        <tr>
+            <td class="month-header" colspan="6">ماه اول: مفاهیم پایه</td>
+        </tr>
+        <tr>
+            <td rowspan="4">ماه اول</td>
+            <td>هفته ۱</td>
+            <td>اعداد، بردارها و عملیات پایه</td>
+            <td>مطالعه اعداد حقیقی/مختلط، جمع و تفریق بردارها، ضرب اسکالر، نرم بردار (L1، L2)، ضرب داخلی. حل ۱۰-۱۵ مسئله. تمرین با NumPy.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">Khan Academy (بردارها)، کتاب Strang (فصل ۱)، MIT OpenCourseWare (جلسه ۱-۲)</td>
+        </tr>
+        <tr>
+            <td>هفته ۲</td>
+            <td>ماتریس‌ها و عملیات آن‌ها</td>
+            <td>مطالعه تعریف ماتریس، انواع ماتریس، جمع، تفریق، ضرب ماتریس، ترانهاده. حل ۵ مسئله ضرب ماتریس. کدنویسی در پایتون.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">Khan Academy (ماتریس‌ها)، کتاب Strang (فصل ۲)، MIT (جلسه ۳-۴)</td>
+        </tr>
+        <tr>
+            <td>هفته ۳</td>
+            <td>فضاهای برداری و استقلال خطی</td>
+            <td>مطالعه فضای برداری، زیرفضا، ترکیب خطی، پایه و بُعد. حل ۱۰ مسئله استقلال خطی. تمرین با R² و R³.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">۳Blue1Brown (Essence of Linear Algebra)، کتاب Strang (فصل ۳)</td>
+        </tr>
+        <tr>
+            <td>هفته ۴</td>
+            <td>سیستم‌های معادلات خطی</td>
+            <td>مطالعه حذف گاوس، ماتریس افزوده، RREF، تحلیل حل‌پذیری. حل ۱۵ مسئله سیستم خطی. پیاده‌سازی گاوس در پایتون. مرور.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">MIT OpenCourseWare (جلسه ۵-۶)، کتاب Strang (فصل ۲)</td>
+        </tr>
+        <!-- ماه دوم -->
+        <tr>
+            <td class="month-header" colspan="6">ماه دوم: مفاهیم متوسط</td>
+        </tr>
+        <tr>
+            <td rowspan="4">ماه دوم</td>
+            <td>هفته ۵</td>
+            <td>دترمینان</td>
+            <td>مطالعه تعریف و محاسبه دترمینان (۲x۲، ۳x۳، روش کلی). حل ۱۰ مسئله. تمرین با NumPy.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">۳Blue1Brown، Khan Academy، کتاب Strang (فصل ۵)</td>
+        </tr>
+        <tr>
+            <td>هفته ۶</td>
+            <td>معکوس ماتریس و تبدیلات خطی</td>
+            <td>مطالعه معکوس ماتریس (گاوس-جردن)، تبدیل خطی، هسته/تصویر. حل ۱۰ مسئله. کدنویسی تبدیلات در پایتون.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">MIT OpenCourseWare (جلسه ۷-۸)، کتاب Strang (فصل ۴ و ۶)</td>
+        </tr>
+        <tr>
+            <td>هفته ۷</td>
+            <td>مقادیر ویژه و بردارهای ویژه</td>
+            <td>مطالعه مقادیر و بردارهای ویژه، چندجمله مشخصه. حل ۱۲ مسئله. پیاده‌سازی در NumPy.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">۳Blue1Brown (مقادیر ویژه)، کتاب Strang (فصل ۶)</td>
+        </tr>
+        <tr>
+            <td>هفته ۸</td>
+            <td>مرور و تمرین عملی</td>
+            <td>مرور ماه اول و دوم. حل ۲۰ مسئله ترکیبی. پروژه کوچک: پیاده‌سازی سیستم خطی یا تبدیل خطی در پایتون.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">کتاب Strang، Brilliant.org</td>
+        </tr>
+        <!-- ماه سوم -->
+        <tr>
+            <td class="month-header" colspan="6">ماه سوم: مفاهیم پیشرفته</td>
+        </tr>
+        <tr>
+            <td rowspan="4">ماه سوم</td>
+            <td>هفته ۹</td>
+            <td>تجزیه ماتریس‌ها (LU و QR)</td>
+            <td>مطالعه تجزیه LU و QR، گرام-اشمیت. حل ۱۰ مسئله. پیاده‌سازی در SciPy.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">MIT OpenCourseWare (جلسه ۱۰-۱۲)، کتاب Strang (فصل ۲ و ۱۱)</td>
+        </tr>
+        <tr>
+            <td>هفته ۱۰</td>
+            <td>تجزیه SVD</td>
+            <td>مطالعه SVD و کاربرد در PCA. حل ۸ مسئله. پیاده‌سازی PCA در پایتون (داده‌های Iris).</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">۳Blue1Brown (SVD)، کتاب Strang (فصل ۷)</td>
+        </tr>
+        <tr>
+            <td>هفته ۱۱</td>
+            <td>نرم‌ها و پایداری عددی</td>
+            <td>مطالعه نرم‌های ماتریسی، شرطی بودن. حل ۱۰ مسئله. تحلیل پایداری در پایتون.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">کتاب Strang (فصل ۹)، Matrix Computations (Golub)</td>
+        </tr>
+        <tr>
+            <td>هفته ۱۲</td>
+            <td>کاربردها در یادگیری ماشین</td>
+            <td>مطالعه PCA، ماتریس کوواریانس، حداقل مربعات. پیاده‌سازی PCA و رگرسیون. حل ۱۰ مسئله.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">Mathematics for Machine Learning (PCA)، کتاب Strang (فصل ۷-۸)</td>
+        </tr>
+        <!-- ماه چهارم -->
+        <tr>
+            <td class="month-header" colspan="6">ماه چهارم: مفاهیم خیلی پیشرفته و تثبیت</td>
+        </tr>
+        <tr>
+            <td rowspan="4">ماه چهارم</td>
+            <td>هفته ۱۳</td>
+            <td>جبر خطی عددی</td>
+            <td>مطالعه الگوریتم‌های پایدار (Conjugate Gradient)، تحلیل خطا. حل ۸ مسئله. پیاده‌سازی در پایتون.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">Matrix Computations (Golub، فصل ۱-۲)</td>
+        </tr>
+        <tr>
+            <td>هفته ۱۴</td>
+            <td>فضاهای تانسوری</td>
+            <td>مطالعه تانسورها و تجزیه (CP، Tucker). حل ۵ مسئله. پیاده‌سازی در پایتون.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">مقالات TensorFlow</td>
+        </tr>
+        <tr>
+            <td>هفته ۱۵</td>
+            <td>جبر خطی در فضاهای غیراقلیدسی</td>
+            <td>مطالعه هندسه ریمانی، ماتریس‌های مثبت معین. حل ۵ مسئله. تمرین بهینه‌سازی روی منیفلد.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">Optimization on Manifolds، مقالات علمی</td>
+        </tr>
+        <tr>
+            <td>هفته ۱۶</td>
+            <td>پروژه نهایی و مرور</td>
+            <td>پروژه: پیاده‌سازی PCA یا رگرسیون با جبر خطی. مرور کل مطالب. حل ۲۰ مسئله ترکیبی.</td>
+            <td>۱-۲ ساعت روزانه (۵ روز)</td>
+            <td class="resources">داده‌های Kaggle، کتاب Strang</td>
+        </tr>
+    </table>
+</body>
+</html>
